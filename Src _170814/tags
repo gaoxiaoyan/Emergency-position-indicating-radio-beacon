@@ -1,0 +1,1059 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+A1HE	.\Rtc.h	36;"	d
+A1ME	.\Rtc.h	37;"	d
+A1WE	.\Rtc.h	35;"	d
+ADC_ISR	.\BatteryDetect.c	/^__interrupt void ADC_ISR(void)$/;"	f
+ADC_MAX	.\BatteryDetect.c	38;"	d	file:
+ADC_START_DETECT	.\BatteryDetect.h	10;"	d
+ADC_STOP_DETECT	.\BatteryDetect.h	11;"	d
+AMP_PARA_2	.\BatteryDetect.c	36;"	d	file:
+AUTO_COM_MODE	.\Record.h	34;"	d
+AdcCtl	.\BatteryDetect.h	14;"	d
+AdcCtlDir	.\BatteryDetect.h	16;"	d
+AdcCtlDisable	.\BatteryDetect.h	18;"	d
+AdcCtlEnable	.\BatteryDetect.h	17;"	d
+AdcCtlOut	.\BatteryDetect.h	15;"	d
+AdcDetect	.\BatteryDetect.c	/^UINT8 AdcDetect(BOOL bType)$/;"	f
+Adc_Init	.\BatteryDetect.c	/^void Adc_Init(void)$/;"	f
+AssembleCdmaMsg	.\CdmaModule.c	/^BOOL AssembleCdmaMsg(UINT8 *pNum, UINT8 *pBuf, UINT8 u8Len)$/;"	f
+AutoSystemGapTime	.\SystemCtl.c	/^void AutoSystemGapTime(void)$/;"	f
+BAT_DEBUG	.\global.h	39;"	d
+BAT_VOL_MAX	.\BatteryDetect.c	35;"	d	file:
+BAT_VOL_MIN	.\BatteryDetect.c	34;"	d	file:
+BDIC_DET_EN	.\global.h	28;"	d
+BD_COM_MODE	.\Record.h	33;"	d
+BD_DEBUG	.\global.h	38;"	d
+BD_EXT	.\BeiDouModule.h	11;"	d
+BD_EXT	.\BeiDouModule.h	9;"	d
+BD_GLOBAL	.\BeiDouModule.c	14;"	d	file:
+BEIDOU_TEST	.\Communication.h	7;"	d
+BOOL	.\DataType.h	42;"	d
+BOOLEAN	.\DataType.h	53;"	d
+BUF_LARGE_SIZE	.\OS_MEM.h	156;"	d
+BUF_MEDIUM_SIZE	.\OS_MEM.h	157;"	d
+BUF_SMALL_SIZE	.\OS_MEM.h	158;"	d
+BatteryDetect	.\BatteryDetect.c	/^void BatteryDetect(void)$/;"	f
+Bcd2Hex	.\GpsParse.C	136;"	d	file:
+BdCmdAssemble	.\BeiDouModule.c	/^void BdCmdAssemble(UINT8 u8InData)$/;"	f
+BdCmdParse	.\BeiDouModule.c	/^void BdCmdParse(UINT8 *pCmd)$/;"	f
+BdCmdRun	.\BeiDouModule.c	/^void BdCmdRun(void)$/;"	f
+BdIcCheck	.\global.h	167;"	d
+BdIcCheckDir	.\global.h	168;"	d
+BdIcCheckIn	.\global.h	169;"	d
+BdIcCheckSetIn	.\global.h	170;"	d
+BdIcDet	.\global.h	171;"	d
+BdModuleInit	.\BeiDouModule.c	/^void BdModuleInit(void)$/;"	f
+BdSendCmdDWSQ	.\BeiDouModule.c	/^void BdSendCmdDWSQ(void)$/;"	f
+BdSendCmdICJC	.\BeiDouModule.c	/^void BdSendCmdICJC(void)$/;"	f
+BdSendCmdSJSC	.\BeiDouModule.c	/^void BdSendCmdSJSC(void)$/;"	f
+BdSendCmdTXSQ	.\BeiDouModule.c	/^void BdSendCmdTXSQ(UINT8 *pSendAddr, UINT8 *pMsg, UINT8 u8MsgLen)$/;"	f
+BeiDouPower	.\global.h	150;"	d
+BeiDouPowerDir	.\global.h	152;"	d
+BeiDouPowerOff	.\global.h	154;"	d
+BeiDouPowerOn	.\global.h	153;"	d
+BeiDouPowerOut	.\global.h	151;"	d
+BeiDouToCdma	.\CdmaModule.c	/^void BeiDouToCdma(void)$/;"	f
+ByteExchange	.\Rtc.c	/^UINT8 ByteExchange(UINT8 u8Data)$/;"	f
+CDMA_COM_MODE	.\Record.h	32;"	d
+CDMA_DEBUG	.\global.h	37;"	d
+CDMA_EXT	.\CdmaModule.c	16;"	d	file:
+CDMA_LED	.\global.h	43;"	d
+CHAR8	.\common.h	39;"	d
+CMD_ALARM_1	.\Rtc.h	30;"	d
+CMD_ALARM_2	.\Rtc.h	31;"	d
+CMD_ALL_INFO_PRINT	.\DebugCmd.h	30;"	d
+CMD_ASSERT	.\CdmaModule.c	53;"	d	file:
+CMD_BD_CLR_SEND_SUC	.\DebugCmd.h	59;"	d
+CMD_BD_GET_BCK_NUM	.\DebugCmd.h	55;"	d
+CMD_BD_GET_LOCATION	.\DebugCmd.h	50;"	d
+CMD_BD_GET_LOC_NUM	.\DebugCmd.h	51;"	d
+CMD_BD_GET_REC_NUM	.\DebugCmd.h	53;"	d
+CMD_BD_GET_SEND_SUC	.\DebugCmd.h	58;"	d
+CMD_BD_GET_TIME	.\DebugCmd.h	57;"	d
+CMD_BD_INFO_TEST	.\DebugCmd.h	56;"	d
+CMD_BD_SET_BCK_NUM	.\DebugCmd.h	54;"	d
+CMD_BD_SET_REC_NUM	.\DebugCmd.h	52;"	d
+CMD_CALIBRATION	.\Rtc.h	32;"	d
+CMD_CDMA_DEL_MSG	.\DebugCmd.h	72;"	d
+CMD_CDMA_GET_BCK_NUM	.\DebugCmd.h	69;"	d
+CMD_CDMA_GET_CSQ	.\DebugCmd.h	70;"	d
+CMD_CDMA_GET_LOC_NUM	.\DebugCmd.h	65;"	d
+CMD_CDMA_GET_SEND_NUM	.\DebugCmd.h	67;"	d
+CMD_CDMA_GET_TIME	.\DebugCmd.h	63;"	d
+CMD_CDMA_INFO_CLOSE	.\DebugCmd.h	61;"	d
+CMD_CDMA_INFO_OPEN	.\DebugCmd.h	62;"	d
+CMD_CDMA_INFO_TEST	.\DebugCmd.h	71;"	d
+CMD_CDMA_SET_BCK_NUM	.\DebugCmd.h	68;"	d
+CMD_CDMA_SET_LOC_NUM	.\DebugCmd.h	64;"	d
+CMD_CDMA_SET_SEND_NUM	.\DebugCmd.h	66;"	d
+CMD_CLR_RUN_TIME	.\DebugCmd.h	38;"	d
+CMD_CMGL	.\CdmaModule.c	50;"	d	file:
+CMD_CMGR	.\CdmaModule.c	49;"	d	file:
+CMD_CMTI	.\CdmaModule.c	45;"	d	file:
+CMD_CSQ	.\CdmaModule.c	47;"	d	file:
+CMD_FLASH_LED_OFF	.\DebugCmd.h	47;"	d
+CMD_FLASH_LED_ON	.\DebugCmd.h	48;"	d
+CMD_GET_GAP_TIME	.\DebugCmd.h	35;"	d
+CMD_GET_RTC_TIME	.\DebugCmd.h	32;"	d
+CMD_GET_RUN_TIME	.\DebugCmd.h	39;"	d
+CMD_GET_SYS_BAT	.\DebugCmd.h	33;"	d
+CMD_GET_SYS_INDEX	.\DebugCmd.h	37;"	d
+CMD_GET_VERSION	.\DebugCmd.h	29;"	d
+CMD_GPS_INFO_CLOSE	.\DebugCmd.h	44;"	d
+CMD_GPS_INFO_OPEN	.\DebugCmd.h	45;"	d
+CMD_HAND_SHAKE	.\DebugCmd.h	28;"	d
+CMD_HOUR	.\Rtc.h	29;"	d
+CMD_NONE	.\CdmaModule.c	51;"	d	file:
+CMD_SET_GAP_TIME	.\DebugCmd.h	34;"	d
+CMD_SET_RTC_TIME	.\DebugCmd.h	31;"	d
+CMD_SET_SYS_INDEX	.\DebugCmd.h	36;"	d
+CMD_SMS	.\CdmaModule.c	48;"	d	file:
+CMD_STAT_1	.\Rtc.h	26;"	d
+CMD_STAT_2	.\Rtc.h	27;"	d
+CMD_USE_AUTO_MODE	.\DebugCmd.h	42;"	d
+CMD_USE_BD_MODE	.\DebugCmd.h	40;"	d
+CMD_USE_CDMA_MODE	.\DebugCmd.h	41;"	d
+CMD_YEAR	.\Rtc.h	28;"	d
+CMD_ZCANS	.\CdmaModule.c	43;"	d	file:
+CMD_ZCCNT	.\CdmaModule.c	44;"	d	file:
+CMD_ZCEND	.\CdmaModule.c	46;"	d	file:
+COMMU_GLOBAL	.\Communication.c	24;"	d	file:
+COM_EXT	.\Communication.h	10;"	d
+COM_EXT	.\Communication.h	12;"	d
+CPU_CLK	.\SystemCtl.c	38;"	d	file:
+CPU_ENTER_CRITICAL	.\global.h	32;"	d
+CPU_EXIT_CRITICAL	.\global.h	33;"	d
+CRITICAL_ENTER	.\SoftTimer.c	20;"	d	file:
+CRITICAL_EXIT	.\SoftTimer.c	21;"	d	file:
+CaculateWeek	.\Rtc.c	/^UINT8 CaculateWeek(UINT8 year, UINT8 month, UINT8 date)$/;"	f
+CalibratLocation	.\GpsParse.C	/^void CalibratLocation(void)$/;"	f
+CalibratRtc	.\GpsParse.C	/^BOOL CalibratRtc(UINT8 u8Cmd)$/;"	f
+CdmaCmdAssemble	.\CdmaModule.c	/^void CdmaCmdAssemble(UINT8 u8InData)$/;"	f
+CdmaCmdHandler	.\CdmaModule.c	/^void CdmaCmdHandler(UINT8 u8Cmd)$/;"	f
+CdmaCmdInit	.\CdmaModule.c	/^void CdmaCmdInit(void)$/;"	f
+CdmaCmdRun	.\CdmaModule.c	/^void CdmaCmdRun(void)$/;"	f
+CdmaDeletMsg	.\DebugCmd.c	/^void CdmaDeletMsg(void)$/;"	f
+CdmaDtr	.\CdmaModule.h	25;"	d
+CdmaDtrDir	.\CdmaModule.h	26;"	d
+CdmaDtrOut	.\CdmaModule.h	27;"	d
+CdmaDtrSetHigh	.\CdmaModule.h	29;"	d
+CdmaDtrSetLow	.\CdmaModule.h	30;"	d
+CdmaDtrSetOut	.\CdmaModule.h	28;"	d
+CdmaIcCheck	.\CdmaModule.h	40;"	d
+CdmaIcCheckDir	.\CdmaModule.h	41;"	d
+CdmaIcCheckIn	.\CdmaModule.h	43;"	d
+CdmaIcCheckOut	.\CdmaModule.h	42;"	d
+CdmaIcCheckSetIn	.\CdmaModule.h	44;"	d
+CdmaIcDet	.\CdmaModule.h	45;"	d
+CdmaIndicator	.\global.h	86;"	d
+CdmaIndicatorDir	.\global.h	88;"	d
+CdmaIndicatorDisable	.\global.h	90;"	d
+CdmaIndicatorEnable	.\global.h	89;"	d
+CdmaIndicatorOut	.\global.h	87;"	d
+CdmaInit	.\CdmaModule.c	/^void CdmaInit(void)$/;"	f
+CdmaInit	.\DtuModule.c	/^void CdmaInit(void)$/;"	f
+CdmaLowPowerEnter	.\CdmaModule.c	/^void CdmaLowPowerEnter(void)$/;"	f
+CdmaLowPowerExit	.\CdmaModule.c	/^void CdmaLowPowerExit(void)$/;"	f
+CdmaMsgParse	.\CdmaModule.c	/^void CdmaMsgParse(SINT8 s8Index)$/;"	f
+CdmaOnOff	.\CdmaModule.h	49;"	d
+CdmaOnOffDir	.\CdmaModule.h	51;"	d
+CdmaOnOffOut	.\CdmaModule.h	50;"	d
+CdmaPower	.\CdmaModule.h	33;"	d
+CdmaPowerDir	.\CdmaModule.h	35;"	d
+CdmaPowerOff	.\CdmaModule.h	37;"	d
+CdmaPowerOn	.\CdmaModule.h	36;"	d
+CdmaPowerOut	.\CdmaModule.h	34;"	d
+CdmaReset	.\CdmaModule.h	55;"	d
+CdmaResetDir	.\CdmaModule.h	57;"	d
+CdmaResetOut	.\CdmaModule.h	56;"	d
+CdmaRestInit	.\CdmaModule.c	/^void CdmaRestInit(void)$/;"	f
+CdmaRi	.\CdmaModule.h	12;"	d
+CdmaRiDir	.\CdmaModule.h	13;"	d
+CdmaRiIE	.\CdmaModule.h	18;"	d
+CdmaRiIES	.\CdmaModule.h	17;"	d
+CdmaRiIesEdge	.\CdmaModule.h	23;"	d
+CdmaRiIn	.\CdmaModule.h	15;"	d
+CdmaRiIntCheck	.\CdmaModule.h	19;"	d
+CdmaRiIntDisable	.\CdmaModule.h	22;"	d
+CdmaRiIntEnable	.\CdmaModule.h	21;"	d
+CdmaRiIntFlag	.\CdmaModule.h	16;"	d
+CdmaRiIntFlagClr	.\CdmaModule.h	20;"	d
+CdmaRiOut	.\CdmaModule.h	14;"	d
+CdmaSendMsg	.\CdmaModule.c	/^BOOL CdmaSendMsg(const UINT8 * ptr, UINT8 u8Len)$/;"	f
+CdmaToBeiDou	.\CdmaModule.c	/^void CdmaToBeiDou(void)$/;"	f
+CdmaWakeUpCfg	.\CdmaModule.c	/^void CdmaWakeUpCfg(void)$/;"	f
+CmdBeiDouBckRecNumGet	.\DebugCmd.c	/^void CmdBeiDouBckRecNumGet(void)$/;"	f
+CmdBeiDouBckRecNumSet	.\DebugCmd.c	/^void CmdBeiDouBckRecNumSet(void)$/;"	f
+CmdBeiDouClrSendSuccess	.\DebugCmd.c	/^void CmdBeiDouClrSendSuccess(void)$/;"	f
+CmdBeiDouDebugClose	.\DebugCmd.c	/^void CmdBeiDouDebugClose(void)$/;"	f
+CmdBeiDouGetSendSuccess	.\DebugCmd.c	/^void CmdBeiDouGetSendSuccess(void)$/;"	f
+CmdBeiDouLocNumGet	.\DebugCmd.c	/^void CmdBeiDouLocNumGet(void)$/;"	f
+CmdBeiDouRecNumGet	.\DebugCmd.c	/^void CmdBeiDouRecNumGet(void)$/;"	f
+CmdBeiDouRecNumSet	.\DebugCmd.c	/^void CmdBeiDouRecNumSet(void)$/;"	f
+CmdBeiDouSendMsg	.\DebugCmd.c	/^void CmdBeiDouSendMsg(void)$/;"	f
+CmdCdmaDebugClose	.\DebugCmd.c	/^void CmdCdmaDebugClose(void)$/;"	f
+CmdCdmaDebugOpen	.\DebugCmd.c	/^void CmdCdmaDebugOpen(void)$/;"	f
+CmdCdmaInfoTest	.\DebugCmd.c	/^void CmdCdmaInfoTest(void)$/;"	f
+CmdCmglParse	.\CdmaModule.c	/^void CmdCmglParse(void)$/;"	f
+CmdFlashLedDisable	.\DebugCmd.c	/^void CmdFlashLedDisable(void)$/;"	f
+CmdFlashLedEnable	.\DebugCmd.c	/^void CmdFlashLedEnable(void)$/;"	f
+CmdGetCdmaBckReceivingNbr	.\DebugCmd.c	/^void CmdGetCdmaBckReceivingNbr(void)$/;"	f
+CmdGetCdmaCSQ	.\DebugCmd.c	/^void CmdGetCdmaCSQ(void)$/;"	f
+CmdGetCdmaLocationNbr	.\DebugCmd.c	/^void CmdGetCdmaLocationNbr(void)$/;"	f
+CmdGetCdmaReceivingNbr	.\DebugCmd.c	/^void CmdGetCdmaReceivingNbr(void)$/;"	f
+CmdGetCdmaTime	.\DebugCmd.c	/^void CmdGetCdmaTime(void)$/;"	f
+CmdGpsDebugClose	.\DebugCmd.c	/^void CmdGpsDebugClose(void)$/;"	f
+CmdGpsDebugOpen	.\DebugCmd.c	/^void CmdGpsDebugOpen(void)$/;"	f
+CmdHandler	.\DebugCmd.c	/^typedef void CmdHandler(void);$/;"	t	file:
+CmdHandler	.\Uart3Cmd.c	/^typedef void CmdHandler(void);$/;"	t	file:
+CmdHandlerInit	.\DebugCmd.c	/^void CmdHandlerInit(void)$/;"	f
+CmdHandlerInit	.\Uart3Cmd.c	/^void CmdHandlerInit(void)$/;"	f
+CmdIntToString	.\DebugCmd.c	/^void CmdIntToString(UINT32 u32Temp, UINT8 *ptr, UINT8 *u8Len)$/;"	f
+CmdParseDWXX	.\BeiDouModule.c	/^void CmdParseDWXX(void)$/;"	f
+CmdParseFKXX	.\BeiDouModule.c	/^void CmdParseFKXX(void )$/;"	f
+CmdParseTXXX	.\BeiDouModule.c	/^void CmdParseTXXX(void)$/;"	f
+CmdSetCdmaBckReceivingNbr	.\DebugCmd.c	/^void CmdSetCdmaBckReceivingNbr(void)$/;"	f
+CmdSetCdmaLocationNbr	.\DebugCmd.c	/^void CmdSetCdmaLocationNbr(void)$/;"	f
+CmdSetCdmaReceivingNbr	.\DebugCmd.c	/^void CmdSetCdmaReceivingNbr(void)$/;"	f
+CommunicationInit	.\Communication.c	/^void CommunicationInit(void)$/;"	f
+CreatCmdIndex	.\GpsParse.C	/^void CreatCmdIndex(void)$/;"	f
+DAY_MINUTE	.\SystemCtl.c	492;"	d	file:
+DEBUG_EN	.\global.h	30;"	d
+DEBUG_EXT	.\DebugCmd.h	22;"	d
+DEBUG_EXT	.\DebugCmd.h	24;"	d
+DIV	.\BatteryDetect.c	33;"	d	file:
+DTIC_DET_EN	.\global.h	29;"	d
+Date	.\Rtc.h	/^  UINT8 Date;$/;"	m	struct:__anon23
+DcoSwitchXt1	.\SystemCtl.c	/^void DcoSwitchXt1(void)$/;"	f
+DebugCmdAssemble	.\DebugCmd.c	/^void DebugCmdAssemble(UINT8 u8InData)$/;"	f
+DebugCmdAssemble	.\Uart3Cmd.c	/^void DebugCmdAssemble(UINT8 u8InData)$/;"	f
+DebugCmdInit	.\DebugCmd.c	/^void DebugCmdInit(void)$/;"	f
+DebugCmdRun	.\DebugCmd.c	/^void DebugCmdRun(void)$/;"	f
+DebugCmdRun	.\Uart3Cmd.c	/^void DebugCmdRun(void)$/;"	f
+Delay	.\DtuModule.c	/^static void Delay(UINT16 usTime)$/;"	f	file:
+Delay	.\Rtc.c	/^static void Delay(UINT16 usTime)$/;"	f	file:
+Delay_MS	.\I2c_Driver.c	/^void Delay_MS( unsigned int m )$/;"	f
+DeletCdmaMsg	.\CdmaModule.c	/^BOOL DeletCdmaMsg(SINT8 s8Index)$/;"	f
+DisableEeprom	.\global.h	188;"	d
+EEPROM_READ_ADDR	.\global.h	48;"	d
+EEPROM_WRITE_ADDR	.\global.h	47;"	d
+EE_READ_ADDR	.\Record.h	15;"	d
+EE_WRITE_ADDR	.\Record.h	14;"	d
+E_CDMA_RECEIVING_BODY	.\CdmaModule.c	/^    E_CDMA_RECEIVING_BODY,$/;"	e	enum:__anon12	file:
+E_CDMA_RECEIVING_BODY2	.\CdmaModule.c	/^    E_CDMA_RECEIVING_BODY2,$/;"	e	enum:__anon12	file:
+E_CDMA_RECEIVING_CMD	.\CdmaModule.c	/^    E_CDMA_RECEIVING_CMD,$/;"	e	enum:__anon12	file:
+E_CDMA_RECEIVING_HEADER	.\CdmaModule.c	/^    E_CDMA_RECEIVING_HEADER,$/;"	e	enum:__anon12	file:
+E_CDMA_RECEIVING_SMS	.\CdmaModule.c	/^    E_CDMA_RECEIVING_SMS,$/;"	e	enum:__anon12	file:
+E_CDMA_RECEIVING_VALID	.\CdmaModule.c	/^    E_CDMA_RECEIVING_VALID$/;"	e	enum:__anon12	file:
+E_UART_CMD_RECEIVING_BODY	.\BeiDouModule.c	/^  E_UART_CMD_RECEIVING_BODY,$/;"	e	enum:__anon1	file:
+E_UART_CMD_RECEIVING_BODY	.\GpsParse.C	/^  E_UART_CMD_RECEIVING_BODY,$/;"	e	enum:__anon18	file:
+E_UART_CMD_RECEIVING_CMD	.\BeiDouModule.c	/^  E_UART_CMD_RECEIVING_CMD,$/;"	e	enum:__anon1	file:
+E_UART_CMD_RECEIVING_CMD	.\DebugCmd.c	/^  E_UART_CMD_RECEIVING_CMD,$/;"	e	enum:__anon15	file:
+E_UART_CMD_RECEIVING_HEADER	.\BeiDouModule.c	/^  E_UART_CMD_RECEIVING_HEADER,$/;"	e	enum:__anon1	file:
+E_UART_CMD_RECEIVING_HEADER	.\GpsParse.C	/^  E_UART_CMD_RECEIVING_HEADER,$/;"	e	enum:__anon18	file:
+E_UART_CMD_RECEIVING_HEADER1	.\DebugCmd.c	/^  E_UART_CMD_RECEIVING_HEADER1,$/;"	e	enum:__anon15	file:
+E_UART_CMD_RECEIVING_HEADER2	.\DebugCmd.c	/^  E_UART_CMD_RECEIVING_HEADER2,$/;"	e	enum:__anon15	file:
+E_UART_CMD_RECEIVING_LENGHT	.\BeiDouModule.c	/^  E_UART_CMD_RECEIVING_LENGHT,$/;"	e	enum:__anon1	file:
+E_UART_CMD_RECEIVING_TAIL1	.\DebugCmd.c	/^  E_UART_CMD_RECEIVING_TAIL1,$/;"	e	enum:__anon15	file:
+E_UART_CMD_RECEIVING_TAIL2	.\DebugCmd.c	/^  E_UART_CMD_RECEIVING_TAIL2,$/;"	e	enum:__anon15	file:
+E_UART_CMD_RECEIVING_VALID	.\BeiDouModule.c	/^  E_UART_CMD_RECEIVING_VALID$/;"	e	enum:__anon1	file:
+E_UART_CMD_RECEIVING_VALID	.\DebugCmd.c	/^  E_UART_CMD_RECEIVING_VALID,$/;"	e	enum:__anon15	file:
+E_UART_CMD_RECEIVING_VALID	.\GpsParse.C	/^  E_UART_CMD_RECEIVING_VALID$/;"	e	enum:__anon18	file:
+EastWest	.\GpsParse.C	/^  UINT8 EastWest;$/;"	m	struct:__anon17	file:
+EepromWp	.\global.h	183;"	d
+EepromWpDir	.\global.h	185;"	d
+EepromWpDirSetOut	.\global.h	186;"	d
+EepromWpPort	.\global.h	184;"	d
+EnableEeprom	.\global.h	187;"	d
+Engender_I2C_ack_signal	.\I2c_Driver.c	/^void Engender_I2C_ack_signal(void)$/;"	f
+Engender_I2C_noack_signal	.\I2c_Driver.c	/^void Engender_I2C_noack_signal(void)   $/;"	f
+Engender_I2C_start_signal	.\I2c_Driver.c	/^void Engender_I2C_start_signal(void)$/;"	f
+Engender_I2C_stop_signal	.\I2c_Driver.c	/^void Engender_I2C_stop_signal(void)$/;"	f
+EnterLowPower	.\SystemCtl.c	/^void EnterLowPower(void)$/;"	f
+FALSE	.\DataType.h	67;"	d
+FALSE	.\common.h	71;"	d
+FLL_FACTOR	.\SystemCtl.c	39;"	d	file:
+FLOAT32	.\DataType.h	50;"	d
+FP32	.\DataType.h	60;"	d
+FlashLedDisable	.\SystemCtl.c	/^void FlashLedDisable(void)$/;"	f
+FlashLedEnable	.\SystemCtl.c	/^void FlashLedEnable(void)$/;"	f
+FreeWatchDog	.\global.h	56;"	d
+GNGGA	.\GpsParse.C	/^  GNGGA = 0x01,$/;"	e	enum:eNmeaType	file:
+GNGLL	.\GpsParse.C	/^  GNGLL = 0x02,$/;"	e	enum:eNmeaType	file:
+GNNON	.\GpsParse.C	/^  GNNON = 0x00,$/;"	e	enum:eNmeaType	file:
+GNRMC	.\GpsParse.C	/^  GNRMC = 0x04,$/;"	e	enum:eNmeaType	file:
+GNVTG	.\GpsParse.C	/^  GNVTG = 0x08$/;"	e	enum:eNmeaType	file:
+GPS_BUF_SIZE	.\GpsParse.C	30;"	d	file:
+GPS_CHECK	.\GpsParse.C	129;"	d	file:
+GPS_DEBUG	.\global.h	36;"	d
+GPS_EXT	.\GpsParse.h	17;"	d
+GPS_EXT	.\GpsParse.h	19;"	d
+GPS_E_W	.\GpsParse.C	126;"	d	file:
+GPS_GLOBALS	.\GpsParse.C	16;"	d	file:
+GPS_LOC_X	.\GpsParse.C	125;"	d	file:
+GPS_LOC_Y	.\GpsParse.C	123;"	d	file:
+GPS_MAX_SIZE	.\GpsParse.C	67;"	d	file:
+GPS_N_S	.\GpsParse.C	124;"	d	file:
+GPS_RX_COMPLETE	.\GpsParse.C	119;"	d	file:
+GPS_RX_INVALID	.\GpsParse.C	117;"	d	file:
+GPS_RX_VALID	.\GpsParse.C	118;"	d	file:
+GPS_STAR	.\GpsParse.C	128;"	d	file:
+GPS_UTC_TIME	.\GpsParse.C	122;"	d	file:
+GPS_VALID	.\GpsParse.C	127;"	d	file:
+GPS_X	.\GpsParse.C	/^  UINT8 GPS_X[11];$/;"	m	struct:__anon17	file:
+GPS_Y	.\GpsParse.C	/^  UINT8 GPS_Y[10];$/;"	m	struct:__anon17	file:
+GetBatteryRemainPower	.\DebugCmd.c	/^void GetBatteryRemainPower(void)$/;"	f
+GetBeiDouBckSendNum	.\BeiDouModule.c	/^void GetBeiDouBckSendNum(UINT8 *ptr)$/;"	f
+GetBeiDouIcNum	.\BeiDouModule.c	/^void GetBeiDouIcNum(UINT8 *ptr)$/;"	f
+GetBeiDouSendNum	.\BeiDouModule.c	/^void GetBeiDouSendNum(UINT8 *ptr)$/;"	f
+GetBufBdInfo	.\BeiDouModule.c	/^void GetBufBdInfo(void)$/;"	f
+GetCdmaCSQ	.\CdmaModule.c	/^UINT8 GetCdmaCSQ(void)$/;"	f
+GetCdmaCsqValue	.\CdmaModule.c	/^SINT8 GetCdmaCsqValue(void)$/;"	f
+GetCdmaModule	.\CdmaModule.c	/^void GetCdmaModule(void)$/;"	f
+GetCdmaTime	.\CdmaModule.c	/^void GetCdmaTime(UINT8 *pTime, UINT8 *pu8Len)$/;"	f
+GetHMFromRtc	.\Rtc.c	/^void GetHMFromRtc(_tsTimeCb * psTime)$/;"	f
+GetLocationNbr	.\CdmaModule.c	/^BOOL GetLocationNbr(UINT8 *ptr)$/;"	f
+GetMinuteFromRtc	.\Rtc.c	/^UINT8 GetMinuteFromRtc(void)$/;"	f
+GetRtcTime	.\DebugCmd.c	/^void GetRtcTime(void)$/;"	f
+GetSendInfoGapTime	.\DebugCmd.c	/^void GetSendInfoGapTime(void)$/;"	f
+GetSystemIndex	.\DebugCmd.c	/^void GetSystemIndex(void)$/;"	f
+GetSystemVersionInfo	.\DebugCmd.c	/^void GetSystemVersionInfo(void)$/;"	f
+GetSystemVersionInfo	.\Uart3Cmd.c	/^void GetSystemVersionInfo(void)$/;"	f
+GetTimeFromRtc	.\Rtc.c	/^void GetTimeFromRtc(_tsTimeCb * psTime)$/;"	f
+GetUnReadMsg	.\CdmaModule.c	/^SINT8 GetUnReadMsg(void)$/;"	f
+GpsCmdAssemble	.\GpsParse.C	/^void GpsCmdAssemble(UINT8 u8InData)$/;"	f
+GpsCmdInit	.\GpsParse.C	/^void GpsCmdInit(void)$/;"	f
+GpsCmdInit	.\Uart3Cmd.c	/^void GpsCmdInit(void)$/;"	f
+GpsCmdRun	.\GpsParse.C	/^void GpsCmdRun(void)$/;"	f
+GpsInfoProcess	.\GpsParse.C	/^UINT8 GpsInfoProcess(UINT8 u8Cmd)$/;"	f
+GpsPower	.\global.h	143;"	d
+GpsPowerDir	.\global.h	145;"	d
+GpsPowerOff	.\global.h	147;"	d
+GpsPowerOn	.\global.h	146;"	d
+GpsPowerOut	.\global.h	144;"	d
+Hour	.\Rtc.h	/^  UINT8 Hour;$/;"	m	struct:__anon23
+I2CMasterRead	.\I2c_Driver.c	/^ void I2CMasterRead(UINT8 u8DeviceAddr, UINT16 u16Addr, UINT8 *Buffer, UINT8 ToRead)$/;"	f
+I2CMasterReadOneByte	.\I2c_Driver.c	/^UINT8 I2CMasterReadOneByte(UINT8 u8DeviceAddr, UINT16 u16Address)$/;"	f
+I2CMasterWrite	.\I2c_Driver.c	/^ void I2CMasterWrite(UINT8 u8DeviceAddr, UINT16 u16Addr, UINT8 *Buffer, UINT8 ToWrite)$/;"	f
+I2CMasterWriteOneByte	.\I2c_Driver.c	/^void I2CMasterWriteOneByte(UINT8 u8DeviceAddr, UINT16 u16Address, UINT8 u8Date)$/;"	f
+I2CSCL_SET_0	.\I2c_Driver.c	28;"	d	file:
+I2CSCL_SET_1	.\I2c_Driver.c	27;"	d	file:
+I2CSDA_INPUT_IN	.\I2c_Driver.c	30;"	d	file:
+I2CSDA_SET_0	.\I2c_Driver.c	25;"	d	file:
+I2CSDA_SET_1	.\I2c_Driver.c	24;"	d	file:
+I2C_EE_WP	.\I2c_Driver.c	32;"	d	file:
+I2C_GetAck	.\I2c_Driver.c	/^UINT8 I2C_GetAck(void)$/;"	f
+I2C_OK	.\I2c_Driver.h	11;"	d
+I2C_Pins_DIR_Setting	.\I2c_Driver.c	/^void I2C_Pins_DIR_Setting ( unsigned char SDADIR )$/;"	f
+I2C_READ_BYTE	.\I2c_Driver.c	/^UINT8 I2C_READ_BYTE( void )$/;"	f
+I2C_WRITE_BYTE	.\I2c_Driver.c	/^void I2C_WRITE_BYTE( unsigned char BytEDAta )   $/;"	f
+I2cScl	.\I2c_Driver.h	22;"	d
+I2cSclDir	.\I2c_Driver.h	24;"	d
+I2cSclOut	.\I2c_Driver.h	23;"	d
+I2cSda	.\I2c_Driver.h	17;"	d
+I2cSdaDir	.\I2c_Driver.h	20;"	d
+I2cSdaIn	.\I2c_Driver.h	19;"	d
+I2cSdaOut	.\I2c_Driver.h	18;"	d
+INIT_VAL0	.\Timer.c	25;"	d	file:
+INIT_VAL1	.\Timer.c	26;"	d	file:
+INT16S	.\DataType.h	57;"	d
+INT16U	.\DataType.h	56;"	d
+INT32S	.\DataType.h	59;"	d
+INT32U	.\DataType.h	58;"	d
+INT8S	.\DataType.h	55;"	d
+INT8U	.\DataType.h	54;"	d
+ITMERA_INTERRUPT_DISABLE	.\Timer.c	29;"	d	file:
+InitClk	.\SystemCtl.c	/^void InitClk(BOOL bFlag)$/;"	f
+KEY_SCAN_EN	.\global.h	27;"	d
+KeyPower	.\global.h	128;"	d
+KeyPowerCheck	.\global.h	134;"	d
+KeyPowerDir	.\global.h	129;"	d
+KeyPowerIE	.\global.h	132;"	d
+KeyPowerIES	.\global.h	131;"	d
+KeyPowerIeDisable	.\global.h	138;"	d
+KeyPowerIeEnable	.\global.h	137;"	d
+KeyPowerIesEdge	.\global.h	139;"	d
+KeyPowerIn	.\global.h	130;"	d
+KeyPowerIntCheck	.\global.h	135;"	d
+KeyPowerIntFlag	.\global.h	133;"	d
+KeyPowerIntFlagClr	.\global.h	136;"	d
+LONG32	.\common.h	55;"	d
+LONG64	.\common.h	63;"	d
+LP_LED	.\global.h	44;"	d
+LowPowerBlue	.\global.h	73;"	d
+LowPowerBlueDir	.\global.h	75;"	d
+LowPowerBlueDisable	.\global.h	77;"	d
+LowPowerBlueEnable	.\global.h	76;"	d
+LowPowerBlueOut	.\global.h	74;"	d
+LowPowerGreen	.\global.h	79;"	d
+LowPowerGreenDir	.\global.h	81;"	d
+LowPowerGreenDisable	.\global.h	83;"	d
+LowPowerGreenEnable	.\global.h	82;"	d
+LowPowerGreenOut	.\global.h	80;"	d
+LowPowerRed	.\global.h	67;"	d
+LowPowerRedDir	.\global.h	69;"	d
+LowPowerRedDisable	.\global.h	71;"	d
+LowPowerRedEnable	.\global.h	70;"	d
+LowPowerRedOut	.\global.h	68;"	d
+LpEnterCfg	.\SystemCtl.c	/^void LpEnterCfg(void)$/;"	f
+LpExitCfg	.\SystemCtl.c	/^void LpExitCfg(void)$/;"	f
+MAIN_EXT	.\global.h	15;"	d
+MAIN_EXT	.\global.h	17;"	d
+MAIN_GLOBAL	.\main.c	34;"	d	file:
+MSG_MAX_SIZE	.\CdmaModule.h	9;"	d
+Minute	.\Rtc.h	/^  UINT8 Minute;$/;"	m	struct:__anon23
+Month	.\Rtc.h	/^  UINT8 Month;$/;"	m	struct:__anon23
+My_atof	.\GpsParse.C	/^FLOAT32 My_atof(UINT8 *s, UINT8 u8Len)$/;"	f
+My_atoi	.\DebugCmd.c	/^UINT32 My_atoi(UINT8 *ptr, UINT8 u8Len)$/;"	f
+NO_VALUABLE_DATA	.\I2c_Driver.h	10;"	d
+NULL	.\DataType.h	79;"	d
+NmeaPackType	.\GpsParse.C	/^SINT8 NmeaPackType(const UINT8 *pu8Buf, UINT8 u8Size)$/;"	f
+NorthSouth	.\GpsParse.C	/^  UINT8 NorthSouth;$/;"	m	struct:__anon17	file:
+OFFSET	.\BeiDouModule.c	294;"	d	file:
+OSAddr	.\OS_MEM.h	/^    void   *OSAddr;                    \/* Pointer to the beginning address of the memory partition     *\/$/;"	m	struct:__anon21
+OSBlkSize	.\OS_MEM.h	/^    INT32U  OSBlkSize;                 \/* Size (in bytes) of each memory block                         *\/$/;"	m	struct:__anon21
+OSFreeList	.\OS_MEM.h	/^    void   *OSFreeList;                \/* Pointer to the beginning of the free list of memory blocks   *\/$/;"	m	struct:__anon21
+OSMemAddr	.\OS_MEM.h	/^    void   *OSMemAddr;                 \/* Pointer to beginning of memory partition                     *\/$/;"	m	struct:__anon20
+OSMemBlkSize	.\OS_MEM.h	/^    INT32U  OSMemBlkSize;              \/* Size (in bytes) of each block of memory                      *\/$/;"	m	struct:__anon20
+OSMemCreate	.\OS_MEM.C	/^OS_MEM  *OSMemCreate (void *addr, INT32U nblks, INT32U blksize, INT8U *err)$/;"	f
+OSMemFreeList	.\OS_MEM.h	/^    void   *OSMemFreeList;             \/* Pointer to list of free memory blocks                        *\/$/;"	m	struct:__anon20
+OSMemFreeList	.\OS_MEM.h	/^OS_EXT  OS_MEM           *OSMemFreeList;            \/* Pointer to free list of memory partitions       *\/$/;"	v
+OSMemGet	.\OS_MEM.C	/^void  *OSMemGet (OS_MEM *pmem, INT8U *err)$/;"	f
+OSMemNBlks	.\OS_MEM.h	/^    INT32U  OSMemNBlks;                \/* Total number of blocks in this partition                     *\/$/;"	m	struct:__anon20
+OSMemNFree	.\OS_MEM.h	/^    INT32U  OSMemNFree;                \/* Number of memory blocks remaining in this partition          *\/$/;"	m	struct:__anon20
+OSMemPut	.\OS_MEM.C	/^INT8U  OSMemPut (OS_MEM  *pmem, void *pblk)$/;"	f
+OSMemQuery	.\OS_MEM.C	/^INT8U  OSMemQuery (OS_MEM *pmem, OS_MEM_DATA *pdata)$/;"	f
+OSMemTbl	.\OS_MEM.h	/^OS_EXT  OS_MEM            OSMemTbl[OS_MAX_MEM_PART];\/* Storage for memory partition manager            *\/$/;"	v
+OSNBlks	.\OS_MEM.h	/^    INT32U  OSNBlks;                   \/* Total number of blocks in the partition                      *\/$/;"	m	struct:__anon21
+OSNFree	.\OS_MEM.h	/^    INT32U  OSNFree;                   \/* Number of memory blocks free                                 *\/$/;"	m	struct:__anon21
+OSNUsed	.\OS_MEM.h	/^    INT32U  OSNUsed;                   \/* Number of memory blocks used                                 *\/$/;"	m	struct:__anon21
+OS_ARG_CHK_EN	.\os_cfg.h	21;"	d
+OS_CFG_H	.\os_cfg.h	18;"	d
+OS_DEBUG_EN	.\os_cfg.h	23;"	d
+OS_ENTER_CRITICAL	.\OS_MEM.h	27;"	d
+OS_EXIT_CRITICAL	.\OS_MEM.h	28;"	d
+OS_EXT	.\OS_MEM.h	22;"	d
+OS_EXT	.\OS_MEM.h	24;"	d
+OS_GLOBALS	.\OS_MEM.C	14;"	d	file:
+OS_MAX_MEM_PART	.\os_cfg.h	25;"	d
+OS_MEM	.\OS_MEM.h	/^} OS_MEM;$/;"	t	typeref:struct:__anon20
+OS_MEM_DATA	.\OS_MEM.h	/^} OS_MEM_DATA;$/;"	t	typeref:struct:__anon21
+OS_MEM_EN	.\os_cfg.h	28;"	d
+OS_MEM_FULL	.\OS_MEM.h	41;"	d
+OS_MEM_INVALID_ADDR	.\OS_MEM.h	45;"	d
+OS_MEM_INVALID_BLKS	.\OS_MEM.h	38;"	d
+OS_MEM_INVALID_PART	.\OS_MEM.h	37;"	d
+OS_MEM_INVALID_PBLK	.\OS_MEM.h	42;"	d
+OS_MEM_INVALID_PDATA	.\OS_MEM.h	44;"	d
+OS_MEM_INVALID_PMEM	.\OS_MEM.h	43;"	d
+OS_MEM_INVALID_SIZE	.\OS_MEM.h	39;"	d
+OS_MEM_NAME_SIZE	.\os_cfg.h	30;"	d
+OS_MEM_NO_FREE_BLKS	.\OS_MEM.h	40;"	d
+OS_MEM_QUERY_EN	.\os_cfg.h	29;"	d
+OS_MemInit	.\OS_MEM.C	/^void  OS_MemInit (void)$/;"	f
+OS_NO_ERR	.\OS_MEM.h	35;"	d
+OpenWatchDog	.\global.h	54;"	d
+PORT1_ISR	.\SystemCtl.c	/^__interrupt void PORT1_ISR(void)$/;"	f
+PicFlashLedOff	.\global.h	163;"	d
+PicFlashLedOn	.\global.h	162;"	d
+PicFlashLedPin	.\global.h	158;"	d
+PicFlashLedPinDir	.\global.h	160;"	d
+PicFlashLedPinOut	.\global.h	159;"	d
+PicFlashLedSetOut	.\global.h	161;"	d
+PrintfCmdList	.\DebugCmd.c	/^void PrintfCmdList(void)$/;"	f
+PrintfCmdList	.\Uart3Cmd.c	/^void PrintfCmdList(void)$/;"	f
+PtrName	.\SoftTimer.c	/^  UINT8 *PtrName;$/;"	m	struct:_tsSwd	file:
+RECORD_EXT	.\Record.h	10;"	d
+RECORD_EXT	.\Record.h	8;"	d
+RECORD_GLOBAL	.\Record.c	15;"	d	file:
+REF_VOL	.\BatteryDetect.c	30;"	d	file:
+RTC_EXT	.\Rtc.h	7;"	d
+RTC_EXT	.\Rtc.h	9;"	d
+RTC_GLOBAL	.\Rtc.c	15;"	d	file:
+RTC_READ_ADDR	.\global.h	52;"	d
+RTC_WRITE_ADDR	.\global.h	51;"	d
+ReadBckBdReceivingNbr	.\Record.c	/^void ReadBckBdReceivingNbr(UINT8 *ptr)$/;"	f
+ReadBckCdmaReceivingNbr	.\Record.c	/^void ReadBckCdmaReceivingNbr(UINT8 *ptr)$/;"	f
+ReadBdReceivingNbr	.\Record.c	/^void ReadBdReceivingNbr(UINT8 *ptr)$/;"	f
+ReadBdRxNbr	.\Record.c	/^void ReadBdRxNbr(UINT16 *ptr)$/;"	f
+ReadBdSendNbr	.\Record.c	/^void ReadBdSendNbr(UINT16 *ptr)$/;"	f
+ReadBdSendSucceedNbr	.\Record.c	/^void ReadBdSendSucceedNbr(UINT16 *ptr)$/;"	f
+ReadCdmaLocationNbr	.\Record.c	/^void ReadCdmaLocationNbr(UINT8 *ptr)$/;"	f
+ReadCdmaMsg	.\CdmaModule.c	/^void ReadCdmaMsg(void)$/;"	f
+ReadCdmaReceivingNbr	.\Record.c	/^void ReadCdmaReceivingNbr(UINT8 *ptr)$/;"	f
+ReadCommunicationMode	.\Record.c	/^UINT8 ReadCommunicationMode(void)$/;"	f
+ReadCompanyNbr	.\Record.c	/^void ReadCompanyNbr(UINT16 *ptr)$/;"	f
+ReadSystemBdIndex	.\Record.c	/^void ReadSystemBdIndex(UINT8 *ptr, UINT8 *pSource)$/;"	f
+ReadSystemCdmaIndex	.\Record.c	/^void ReadSystemCdmaIndex(UINT8 *ptr, UINT8 *pSource)$/;"	f
+ReadSystemGapTime	.\Record.c	/^void ReadSystemGapTime(UINT8 *ptr)$/;"	f
+ReadSystemNbr	.\Record.c	/^void ReadSystemNbr(UINT16 *ptr)$/;"	f
+ReadSystemRunTime	.\Record.c	/^void ReadSystemRunTime(UINT32 *ptr)$/;"	f
+ReadSystemType	.\Record.c	/^void ReadSystemType(UINT8 *ptr)$/;"	f
+RealCmdProcess	.\GpsParse.C	/^UINT8* RealCmdProcess(UINT8 num )$/;"	f
+RecordInit	.\Record.c	/^void RecordInit(void)$/;"	f
+RecordRun	.\Record.c	/^void RecordRun(void)$/;"	f
+RegisteUnReadMsg	.\CdmaModule.c	/^BOOL RegisteUnReadMsg(void)$/;"	f
+ReservedPinCfg	.\SystemCtl.c	/^void ReservedPinCfg(void)$/;"	f
+RtcBcd2Hex	.\Rtc.c	24;"	d	file:
+RtcConverHour	.\Rtc.c	/^void RtcConverHour(BOOL bConver)$/;"	f
+RtcHex2Bcd	.\Communication.c	84;"	d	file:
+RtcHex2Bcd	.\GpsParse.C	135;"	d	file:
+RtcHex2Bcd	.\Rtc.c	25;"	d	file:
+RtcInit	.\Rtc.c	/^void RtcInit(void)$/;"	f
+RtcInt	.\Rtc.h	13;"	d
+RtcIntCheck	.\Rtc.h	19;"	d
+RtcIntDir	.\Rtc.h	14;"	d
+RtcIntFlag	.\Rtc.h	16;"	d
+RtcIntFlagClr	.\Rtc.h	20;"	d
+RtcIntIE	.\Rtc.h	18;"	d
+RtcIntIES	.\Rtc.h	17;"	d
+RtcIntIeDisable	.\Rtc.h	22;"	d
+RtcIntIeEnable	.\Rtc.h	21;"	d
+RtcIntIesEdge	.\Rtc.h	23;"	d
+RtcIntIn	.\Rtc.h	15;"	d
+RtcRead	.\I2c_Driver.c	/^BOOL RtcRead(UINT8 u8Cmd, UINT8 *Buffer, UINT8 ToRead)$/;"	f
+RtcRest	.\Rtc.c	/^void RtcRest(void)$/;"	f
+RtcWrite	.\I2c_Driver.c	/^BOOL RtcWrite(UINT8 u8Cmd, UINT8 *Buffer, UINT8 ToWrite)$/;"	f
+SAVE_ALL_CFG	.\Record.h	29;"	d
+SAVE_BD_NBR	.\Record.h	25;"	d
+SAVE_CDMA_NBR	.\Record.h	27;"	d
+SAVE_NONE	.\Record.h	21;"	d
+SAVE_SYS_GAP	.\Record.h	24;"	d
+SAVE_SYS_NBR	.\Record.h	22;"	d
+SAVE_SYS_TYPE	.\Record.h	23;"	d
+SHORT16	.\common.h	47;"	d
+SINT16	.\DataType.h	34;"	d
+SINT32	.\DataType.h	38;"	d
+SINT8	.\DataType.h	30;"	d
+SLAVE_DEVICE_ERROR	.\I2c_Driver.h	13;"	d
+SLAVE_DEVICE_OK	.\I2c_Driver.h	14;"	d
+STAT1_BLD	.\Rtc.h	46;"	d
+STAT1_CONVER	.\Rtc.h	41;"	d
+STAT1_INT1	.\Rtc.h	44;"	d
+STAT1_INT2	.\Rtc.h	45;"	d
+STAT1_POC	.\Rtc.h	47;"	d
+STAT1_RESET	.\Rtc.h	40;"	d
+STAT1_SC0	.\Rtc.h	42;"	d
+STAT1_SC1	.\Rtc.h	43;"	d
+STAT2_INT1AE	.\Rtc.h	52;"	d
+STAT2_INT1FE	.\Rtc.h	50;"	d
+STAT2_INT1ME	.\Rtc.h	51;"	d
+STAT2_INT1_32K	.\Rtc.h	53;"	d
+STAT2_INT2AE	.\Rtc.h	56;"	d
+STAT2_INT2FE	.\Rtc.h	54;"	d
+STAT2_INT2ME	.\Rtc.h	55;"	d
+STAT2_TEST	.\Rtc.h	57;"	d
+SWD_ERROR	.\SoftTimer.h	23;"	d
+SWD_MAX_SIZE	.\SoftTimer.c	24;"	d	file:
+SWD_OK	.\SoftTimer.h	21;"	d
+SWD_STATUS	.\SoftTimer.h	19;"	d
+SYS_BCK_BD_ADDR	.\Record.h	45;"	d
+SYS_BCK_CDMA_ADDR	.\Record.h	47;"	d
+SYS_BD_RX_ADDR	.\Record.h	51;"	d
+SYS_BD_TX_ADDR	.\Record.h	50;"	d
+SYS_BD_TX_SUCC	.\Record.h	52;"	d
+SYS_CFG_ADDR	.\Record.h	37;"	d
+SYS_CMP_ADDR	.\Record.h	40;"	d
+SYS_COM_SEL_ADDR	.\Record.h	39;"	d
+SYS_EXT	.\SystemCtl.h	7;"	d
+SYS_EXT	.\SystemCtl.h	9;"	d
+SYS_GAP_ADDR	.\Record.h	43;"	d
+SYS_GLOBAL	.\SystemCtl.c	19;"	d	file:
+SYS_LED	.\global.h	42;"	d
+SYS_LOC_CDMA_ADDR	.\Record.h	49;"	d
+SYS_MOD_ADDR	.\Record.h	38;"	d
+SYS_NBR_ADDR	.\Record.h	41;"	d
+SYS_REV_BD_ADDR	.\Record.h	44;"	d
+SYS_REV_CDMA_ADDR	.\Record.h	46;"	d
+SYS_RUN_TIME_ADDR	.\Record.h	48;"	d
+SYS_TYPE_ADDR	.\Record.h	42;"	d
+SYS_TYPE_SYJ	.\Record.h	18;"	d
+SYS_TYPE_WYL	.\Record.h	17;"	d
+SaveBckBdReceivingNbr	.\Record.c	/^void SaveBckBdReceivingNbr(UINT8 *ptr)$/;"	f
+SaveBckCdmaReceivingNbr	.\Record.c	/^void SaveBckCdmaReceivingNbr(UINT8 *ptr)$/;"	f
+SaveBdBckReceivingNbr	.\Record.c	/^void SaveBdBckReceivingNbr(UINT8 *ptr)$/;"	f
+SaveBdReceivingNbr	.\Record.c	/^void SaveBdReceivingNbr(UINT8 *ptr)$/;"	f
+SaveBdRxNbr	.\Record.c	/^void SaveBdRxNbr(UINT16 *ptr)$/;"	f
+SaveBdSendNbr	.\Record.c	/^void SaveBdSendNbr(UINT16 *ptr)$/;"	f
+SaveBdSendSucceedNbr	.\Record.c	/^void SaveBdSendSucceedNbr(UINT16 *ptr)$/;"	f
+SaveCdmaBckReceivingNbr	.\Record.c	/^void SaveCdmaBckReceivingNbr(UINT8 *ptr)$/;"	f
+SaveCdmaLocationNbr	.\Record.c	/^void SaveCdmaLocationNbr(UINT8 *ptr)$/;"	f
+SaveCdmaReceivingNbr	.\Record.c	/^void SaveCdmaReceivingNbr(UINT8 *ptr)$/;"	f
+SaveCommunicationMode	.\Record.c	/^void SaveCommunicationMode(UINT8 u8Mode)$/;"	f
+SaveCompanyNbr	.\Record.c	/^ void SaveCompanyNbr(UINT16 *ptr)$/;"	f
+SaveSystemBdIndex	.\Record.c	/^void SaveSystemBdIndex(UINT8 *ptr, UINT8 *pSource)$/;"	f
+SaveSystemCdmaIndex	.\Record.c	/^void SaveSystemCdmaIndex(UINT8 *ptr)$/;"	f
+SaveSystemGapTime	.\Record.c	/^ void SaveSystemGapTime(UINT8 *ptr)$/;"	f
+SaveSystemNbr	.\Record.c	/^ void SaveSystemNbr(UINT16 *ptr)$/;"	f
+SaveSystemRunTime	.\Record.c	/^void SaveSystemRunTime(UINT32 *ptr)$/;"	f
+SaveSystemType	.\Record.c	/^ void SaveSystemType(UINT8 *ptr)$/;"	f
+Second	.\Rtc.h	/^  UINT8 Second;$/;"	m	struct:__anon23
+SendInfoToCenter	.\Communication.c	/^void SendInfoToCenter(void)$/;"	f
+SendReadMsgCmd	.\CdmaModule.c	/^SINT8 SendReadMsgCmd(void)$/;"	f
+SetCdmaOnOff	.\CdmaModule.h	52;"	d
+SetCdmaReset	.\CdmaModule.h	58;"	d
+SetCdmaTimeToRtc	.\CdmaModule.c	/^BOOL SetCdmaTimeToRtc(void)$/;"	f
+SetLocationNbr	.\CdmaModule.c	/^BOOL SetLocationNbr(UINT8 *ptr)$/;"	f
+SetRtcInt1Out	.\Rtc.c	/^void SetRtcInt1Out(void)$/;"	f
+SetRtcTime	.\DebugCmd.c	/^void SetRtcTime(void)$/;"	f
+SetSendInfoGapTime	.\DebugCmd.c	/^void SetSendInfoGapTime(void)$/;"	f
+SetSystemIndex	.\DebugCmd.c	/^void SetSystemIndex(void)$/;"	f
+SetTimeToRtc	.\Rtc.c	/^void SetTimeToRtc(_tsTimeCb * psTime)$/;"	f
+SetWatchDog	.\global.h	55;"	d
+StopWatchDog	.\global.h	57;"	d
+StringToUint32	.\GpsParse.C	/^UINT32 StringToUint32(UINT8 *ptr)$/;"	f
+SwdDisable	.\SoftTimer.c	/^SWD_STATUS SwdDisable(SINT8 s8Dog)$/;"	f
+SwdEnable	.\SoftTimer.c	/^SWD_STATUS SwdEnable(SINT8 s8Dog)$/;"	f
+SwdFree	.\SoftTimer.c	/^SWD_STATUS SwdFree(SINT8 s8Dog)$/;"	f
+SwdGet	.\SoftTimer.c	/^SINT8 SwdGet(void)$/;"	f
+SwdGetLifeTime	.\SoftTimer.c	/^UINT16 SwdGetLifeTime(SINT8 s8Dog)$/;"	f
+SwdInit	.\SoftTimer.c	/^void SwdInit(void)$/;"	f
+SwdIsEnable	.\SoftTimer.c	/^SINT8 SwdIsEnable(SINT8 s8Dog)$/;"	f
+SwdReset	.\SoftTimer.c	/^SWD_STATUS SwdReset(SINT8 s8Dog)$/;"	f
+SwdRun	.\SoftTimer.c	/^void SwdRun(void)$/;"	f
+SwdSetLifeTime	.\SoftTimer.c	/^SWD_STATUS SwdSetLifeTime(SINT8 s8Dog, UINT16 u16LifeTime)$/;"	f
+SwdSetName	.\SoftTimer.c	/^SWD_STATUS SwdSetName(SINT8 s8Dog, UINT8 *pName)$/;"	f
+SystemIdleInit	.\SystemCtl.c	/^void SystemIdleInit(void)$/;"	f
+SystemIdleRun	.\SystemCtl.c	/^void SystemIdleRun(void)$/;"	f
+SystemInit	.\SystemCtl.c	/^void SystemInit(void)$/;"	f
+SystemRun	.\global.h	60;"	d
+SystemRunDir	.\global.h	62;"	d
+SystemRunDisable	.\global.h	64;"	d
+SystemRunEnable	.\global.h	63;"	d
+SystemRunOut	.\global.h	61;"	d
+SystemRunTimeClear	.\DebugCmd.c	/^void SystemRunTimeClear(void)$/;"	f
+SystemRunTimeGet	.\DebugCmd.c	/^void SystemRunTimeGet(void)$/;"	f
+TIMERA_INTERRUPT_ENABLE	.\Timer.c	30;"	d	file:
+TIMER_TICK	.\Timer.c	23;"	d	file:
+TRUE	.\DataType.h	63;"	d
+TRUE	.\common.h	67;"	d
+TimerA_ISR	.\Timer.c	/^__interrupt void TimerA_ISR(void)$/;"	f
+TimerA_Init	.\Timer.c	/^void TimerA_Init(void)$/;"	f
+TimerInterruptDisable	.\Timer.c	/^void TimerInterruptDisable(void)$/;"	f
+TimerInterruptEnable	.\Timer.c	/^void TimerInterruptEnable(void)$/;"	f
+UART0_DIR	.\global.h	95;"	d
+UART0_DISABLE_INTERRUPT	.\Uart0.c	25;"	d	file:
+UART0_ENABLE_INTERRUPT	.\Uart0.c	26;"	d	file:
+UART0_PIN_CLR	.\global.h	99;"	d
+UART0_PIN_SET	.\global.h	100;"	d
+UART0_PORT	.\global.h	96;"	d
+UART0_RXD	.\global.h	98;"	d
+UART0_RXISR	.\Uart0.c	/^__interrupt void UART0_RXISR(void)$/;"	f
+UART0_RX_MAX_SIZE	.\Uart0.c	30;"	d	file:
+UART0_SEL	.\global.h	94;"	d
+UART0_TXD	.\global.h	97;"	d
+UART1_DIR	.\global.h	104;"	d
+UART1_DISABLE_INTERRUPT	.\Uart1.c	25;"	d	file:
+UART1_ENABLE_INTERRUPT	.\Uart1.c	26;"	d	file:
+UART1_PIN_CLR	.\global.h	108;"	d
+UART1_PORT	.\global.h	105;"	d
+UART1_RXD	.\global.h	107;"	d
+UART1_RXISR	.\Uart1.c	/^__interrupt void UART1_RXISR(void)$/;"	f
+UART1_RX_MAX_SIZE	.\Uart1.c	30;"	d	file:
+UART1_SEL	.\global.h	103;"	d
+UART1_TXD	.\global.h	106;"	d
+UART2_DIR	.\global.h	112;"	d
+UART2_DISABLE_INTERRUPT	.\Uart2.c	24;"	d	file:
+UART2_ENABLE_INTERRUPT	.\Uart2.c	25;"	d	file:
+UART2_PIN_CLR	.\global.h	116;"	d
+UART2_PORT	.\global.h	113;"	d
+UART2_RXD	.\global.h	115;"	d
+UART2_RXISR	.\Uart2.c	/^__interrupt void UART2_RXISR(void)$/;"	f
+UART2_RX_MAX_SIZE	.\Uart2.c	29;"	d	file:
+UART2_SEL	.\global.h	111;"	d
+UART2_TXD	.\global.h	114;"	d
+UART3_DIR	.\global.h	120;"	d
+UART3_DISABLE_INTERRUPT	.\Uart3.c	23;"	d	file:
+UART3_ENABLE_INTERRUPT	.\Uart3.c	24;"	d	file:
+UART3_PIN_CLR	.\global.h	124;"	d
+UART3_PORT	.\global.h	121;"	d
+UART3_RXD	.\global.h	123;"	d
+UART3_RXISR	.\Uart3.c	/^__interrupt void UART3_RXISR(void)$/;"	f
+UART3_RX_MAX_SIZE	.\Uart3.c	28;"	d	file:
+UART3_SEL	.\global.h	119;"	d
+UART3_TXD	.\global.h	122;"	d
+UCHAR8	.\common.h	35;"	d
+UINT16	.\DataType.h	10;"	d
+UINT32	.\DataType.h	14;"	d
+UINT8	.\DataType.h	6;"	d
+ULONG32	.\common.h	51;"	d
+ULONG64	.\common.h	59;"	d
+USHORT16	.\common.h	43;"	d
+Uart0DisableInterrupt	.\Uart0.c	/^void Uart0DisableInterrupt(void)$/;"	f
+Uart0EmptyRxBuf	.\Uart0.c	/^void Uart0EmptyRxBuf(void)$/;"	f
+Uart0EnableInterrupt	.\Uart0.c	/^void Uart0EnableInterrupt(void)$/;"	f
+Uart0GetByte	.\Uart0.c	/^UINT8 Uart0GetByte(void)$/;"	f
+Uart0GetRxData	.\Uart0.c	/^UINT16 Uart0GetRxData(UINT8 *pu8Buffer, UINT16 u16DataLen)$/;"	f
+Uart0GetRxDataLength	.\Uart0.c	/^UINT16 Uart0GetRxDataLength(void)$/;"	f
+Uart0Init	.\Uart0.c	/^void Uart0Init(void)$/;"	f
+Uart0InsertByte	.\Uart0.c	/^void Uart0InsertByte(UINT8 u8Data)$/;"	f
+Uart0SendBuffer	.\Uart0.c	/^void Uart0SendBuffer(const UINT8 *pu8Buf, UINT8 u8Length)$/;"	f
+Uart0SendByte	.\Uart0.c	/^void Uart0SendByte(UINT8 u8Data)$/;"	f
+Uart0SendString	.\Uart0.c	/^void Uart0SendString(const UINT8 * pString)$/;"	f
+Uart0TxUntilIdle	.\Uart0.c	28;"	d	file:
+Uart1DisableInterrupt	.\Uart1.c	/^void Uart1DisableInterrupt(void)$/;"	f
+Uart1EmptyRxBuf	.\Uart1.c	/^void Uart1EmptyRxBuf(void)$/;"	f
+Uart1EnableInterrupt	.\Uart1.c	/^void Uart1EnableInterrupt(void)$/;"	f
+Uart1GetByte	.\Uart1.c	/^UINT8 Uart1GetByte(void)$/;"	f
+Uart1GetRxData	.\Uart1.c	/^UINT16 Uart1GetRxData(UINT8 *pu8Buffer, UINT16 u16DataLen)$/;"	f
+Uart1GetRxDataLength	.\Uart1.c	/^UINT16 Uart1GetRxDataLength(void)$/;"	f
+Uart1Init	.\Uart1.c	/^void Uart1Init(void)$/;"	f
+Uart1InsertByte	.\Uart1.c	/^void Uart1InsertByte(UINT8 u8Data)$/;"	f
+Uart1SendBuffer	.\Uart1.c	/^void Uart1SendBuffer(const UINT8 *pu8Buf, UINT8 u8Length)$/;"	f
+Uart1SendByte	.\Uart1.c	/^void Uart1SendByte(UINT8 u8Data)$/;"	f
+Uart1SendString	.\Uart1.c	/^void Uart1SendString(const UINT8 * pString)$/;"	f
+Uart1TxUntilIdle	.\Uart1.c	28;"	d	file:
+Uart2DisableInterrupt	.\Uart2.c	/^void Uart2DisableInterrupt(void)$/;"	f
+Uart2EmptyRxBuf	.\Uart2.c	/^void Uart2EmptyRxBuf(void)$/;"	f
+Uart2EnableInterrupt	.\Uart2.c	/^void Uart2EnableInterrupt(void)$/;"	f
+Uart2GetByte	.\Uart2.c	/^UINT8 Uart2GetByte(void)$/;"	f
+Uart2GetRxData	.\Uart2.c	/^UINT16 Uart2GetRxData(UINT8 *pu8Buffer, UINT16 u16DataLen)$/;"	f
+Uart2GetRxDataLength	.\Uart2.c	/^UINT16 Uart2GetRxDataLength(void)$/;"	f
+Uart2Init	.\Uart2.c	/^void Uart2Init(void)$/;"	f
+Uart2SendBuffer	.\Uart2.c	/^void Uart2SendBuffer(const UINT8 *pu8Buf, UINT8 u8Length)$/;"	f
+Uart2SendByte	.\Uart2.c	/^void Uart2SendByte(UINT8 u8Data)$/;"	f
+Uart2SendString	.\Uart2.c	/^void Uart2SendString(const UINT8 * pString)$/;"	f
+Uart2TxUntilIdle	.\Uart2.c	27;"	d	file:
+Uart3DisableInterrupt	.\Uart3.c	/^void Uart3DisableInterrupt(void)$/;"	f
+Uart3EmptyRxBuf	.\Uart3.c	/^void Uart3EmptyRxBuf(void)$/;"	f
+Uart3EnableInterrupt	.\Uart3.c	/^void Uart3EnableInterrupt(void)$/;"	f
+Uart3GetByte	.\Uart3.c	/^UINT8 Uart3GetByte(void)$/;"	f
+Uart3GetRxData	.\Uart3.c	/^UINT16 Uart3GetRxData(UINT8 *pu8Buffer, UINT16 u16DataLen)$/;"	f
+Uart3GetRxDataLength	.\Uart3.c	/^UINT16 Uart3GetRxDataLength(void)$/;"	f
+Uart3Init	.\Uart3.c	/^void Uart3Init(void)$/;"	f
+Uart3SendBuffer	.\Uart3.c	/^void Uart3SendBuffer(UINT8 *pu8Buf, UINT8 u8Length)$/;"	f
+Uart3SendByte	.\Uart3.c	/^void Uart3SendByte(UINT8 u8Data)$/;"	f
+Uart3SendString	.\Uart3.c	/^void Uart3SendString(UINT8 * pString)$/;"	f
+Uart3TxUntilIdle	.\Uart3.c	26;"	d	file:
+UartHandShake	.\DebugCmd.c	/^void UartHandShake(void)$/;"	f
+Uint32ToString	.\GpsParse.C	/^void Uint32ToString(UINT8 *ptr, UINT32 u32Temp)$/;"	f
+UseAutoMode	.\DebugCmd.c	/^void UseAutoMode(void)$/;"	f
+UseBeiDouMode	.\DebugCmd.c	/^void UseBeiDouMode(void)$/;"	f
+UseCdmaMode	.\DebugCmd.c	/^void UseCdmaMode(void)$/;"	f
+UseEphSum	.\GpsParse.C	/^  UINT8 UseEphSum;$/;"	m	struct:__anon17	file:
+VERSION	.\global.h	24;"	d
+VOID	.\common.h	31;"	d
+VOLTAGE_MAX	.\BatteryDetect.c	32;"	d	file:
+VOLTAGE_MIN	.\BatteryDetect.c	31;"	d	file:
+WaitSystemStart	.\SystemCtl.c	/^void WaitSystemStart(void)$/;"	f
+Week	.\Rtc.h	/^  UINT8 Week;$/;"	m	struct:__anon23
+Year	.\Rtc.h	/^  UINT8 Year;$/;"	m	struct:__anon23
+_GetDoubleWordFromAddr	.\CdmaModule.c	38;"	d	file:
+_GetDoubleWordFromAddr	.\DtuModule.c	31;"	d	file:
+_GetWordFromAddr	.\CdmaModule.c	36;"	d	file:
+_GetWordFromAddr	.\DtuModule.c	29;"	d	file:
+__BATDETECT_H__	.\BatteryDetect.h	4;"	d
+__BDMODULE_H__	.\BeiDouModule.h	3;"	d
+__COMMON_H__	.\common.h	20;"	d
+__COMMUNICATION_H__	.\Communication.h	3;"	d
+__DATATYPE_H__	.\DataType.h	3;"	d
+__DEBUG_CMD_H__	.\DebugCmd.h	17;"	d
+__DTUMODULE_H__	.\CdmaModule.h	4;"	d
+__GPS_PARSE_H__	.\GpsParse.h	8;"	d
+__IIC_DRIVER_H__	.\I2c_Driver.h	3;"	d
+__MAIN_H__	.\global.h	3;"	d
+__OS_MEM_H__	.\OS_MEM.h	15;"	d
+__RECORD_H__	.\Record.h	3;"	d
+__RTC_H__	.\Rtc.h	4;"	d
+__SOFTWATCHDOG_H__	.\SoftTimer.h	13;"	d
+__SYSTEMCTL_H__	.\SystemCtl.h	4;"	d
+__TIMER_H__	.\Timer.h	4;"	d
+__UART0_H__	.\Uart0.h	3;"	d
+__UART1_H__	.\Uart1.h	3;"	d
+__UART2_H__	.\Uart2.h	3;"	d
+__UART3_H__	.\Uart3.h	3;"	d
+_tsBdCmdCb	.\BeiDouModule.c	/^}_tsBdCmdCb;$/;"	t	typeref:struct:__anon2	file:
+_tsBdLocation	.\BeiDouModule.h	/^}_tsBdLocation;$/;"	t	typeref:struct:__anon7
+_tsCMGS	.\CdmaModule.c	/^typedef struct _tsCMGS$/;"	s	file:
+_tsCdmaCmdCb	.\CdmaModule.c	/^}_tsCdmaCmdCb;$/;"	t	typeref:struct:__anon13	file:
+_tsCmdDwsqCb	.\BeiDouModule.h	/^}_tsCmdDwsqCb;$/;"	t	typeref:struct:__anon3
+_tsCmdDwxxCb	.\BeiDouModule.h	/^}_tsCmdDwxxCb;$/;"	t	typeref:struct:__anon8
+_tsCmdFkxxCb	.\BeiDouModule.h	/^}_tsCmdFkxxCb;$/;"	t	typeref:struct:__anon11
+_tsCmdGljcCb	.\BeiDouModule.h	/^}_tsCmdGljcCb;$/;"	t	typeref:struct:__anon6
+_tsCmdSjscCb	.\BeiDouModule.h	/^}_tsCmdSjscCb;$/;"	t	typeref:struct:__anon5
+_tsCmdSjxxCb	.\BeiDouModule.h	/^}_tsCmdSjxxCb;$/;"	t	typeref:struct:__anon10
+_tsCmdTxsqCb	.\BeiDouModule.h	/^}_tsCmdTxsqCb;$/;"	t	typeref:struct:__anon4
+_tsCmdTxxxCb	.\BeiDouModule.h	/^}_tsCmdTxxxCb;$/;"	t	typeref:struct:__anon9
+_tsDebugCmdCb	.\DebugCmd.c	/^}_tsDebugCmdCb;$/;"	t	typeref:struct:__anon16	file:
+_tsDogs	.\SoftTimer.c	/^}_tsDogs;$/;"	t	typeref:struct:_tsSwd	file:
+_tsGpsInfo	.\GpsParse.C	/^}_tsGpsInfo;$/;"	t	typeref:struct:__anon17	file:
+_tsRecordCb	.\Record.h	/^}_tsRecordCb;$/;"	t	typeref:struct:__anon22
+_tsSendInfo	.\Communication.h	/^}_tsSendInfo;$/;"	t	typeref:struct:__anon14
+_tsSwd	.\SoftTimer.c	/^typedef struct _tsSwd$/;"	s	file:
+_tsTimeCb	.\Rtc.h	/^}_tsTimeCb;$/;"	t	typeref:struct:__anon23
+_tsUartCb	.\Uart0.c	/^}_tsUartCb;$/;"	t	typeref:struct:__anon24	file:
+_tsUartCb	.\Uart1.c	/^}_tsUartCb;$/;"	t	typeref:struct:__anon25	file:
+_tsUartCb	.\Uart2.c	/^}_tsUartCb;$/;"	t	typeref:struct:__anon26	file:
+_tsUartCb	.\Uart3.c	/^}_tsUartCb;$/;"	t	typeref:struct:__anon27	file:
+_tsUartCmdCb	.\GpsParse.C	/^}_tsUartCmdCb;$/;"	t	typeref:struct:__anon19	file:
+apCmdHandlerList	.\DebugCmd.c	/^CmdHandler *apCmdHandlerList[64];$/;"	v
+apCmdHandlerList	.\Uart3Cmd.c	/^CmdHandler *apCmdHandlerList[32];$/;"	v
+au16AdcBuffer	.\BatteryDetect.c	/^UINT16 au16AdcBuffer[ADC_MAX];$/;"	v
+au8BDIndex	.\Communication.h	/^  UINT8  au8BDIndex[11]   ;         \/\/BD使用北斗卡号，前三位补0.$/;"	m	struct:__anon14
+au8BD_X	.\BeiDouModule.h	/^  UINT8 au8BD_X[10];$/;"	m	struct:__anon7
+au8BD_X	.\BeiDouModule.h	/^  UINT8 au8BD_X[4];        \/\/经度信息$/;"	m	struct:__anon8
+au8BD_Y	.\BeiDouModule.h	/^  UINT8 au8BD_Y[4];        \/\/纬度信息$/;"	m	struct:__anon8
+au8BD_Y	.\BeiDouModule.h	/^  UINT8 au8BD_Y[9];$/;"	m	struct:__anon7
+au8BackOk	.\CdmaModule.c	/^const UINT8 au8BackOk[3]           = {0x4f, 0x4b, 0x00};$/;"	v
+au8BackOk	.\DtuModule.c	/^const UINT8 au8BackOk[3] = {0x4f, 0x4b, 0x00};$/;"	v
+au8BdBckNbr	.\Record.h	/^  UINT8  au8BdBckNbr[3];          \/\/北斗备用接收机号码。预留调试，指向青岛中心北斗测试机$/;"	m	struct:__anon22
+au8BdCmd	.\BeiDouModule.h	/^  UINT8 au8BdCmd[5];          \/\/北斗模块通讯命令$/;"	m	struct:__anon10
+au8BdCmd	.\BeiDouModule.h	/^  UINT8 au8BdCmd[5];          \/\/北斗模块通讯命令$/;"	m	struct:__anon11
+au8BdCmd	.\BeiDouModule.h	/^  UINT8 au8BdCmd[5];          \/\/北斗模块通讯命令$/;"	m	struct:__anon3
+au8BdCmd	.\BeiDouModule.h	/^  UINT8 au8BdCmd[5];          \/\/北斗模块通讯命令$/;"	m	struct:__anon4
+au8BdCmd	.\BeiDouModule.h	/^  UINT8 au8BdCmd[5];          \/\/北斗模块通讯命令$/;"	m	struct:__anon5
+au8BdCmd	.\BeiDouModule.h	/^  UINT8 au8BdCmd[5];          \/\/北斗模块通讯命令$/;"	m	struct:__anon6
+au8BdCmd	.\BeiDouModule.h	/^  UINT8 au8BdCmd[5];          \/\/北斗模块通讯命令$/;"	m	struct:__anon8
+au8BdCmd	.\BeiDouModule.h	/^  UINT8 au8BdCmd[5];          \/\/北斗模块通讯命令$/;"	m	struct:__anon9
+au8BdFindAddr	.\BeiDouModule.h	/^  UINT8 au8BdFindAddr[3];     \/\/北斗机接收机地址。$/;"	m	struct:__anon8
+au8BdLocaAddr	.\BeiDouModule.h	/^  UINT8 au8BdLocaAddr[3];     \/\/北斗机用户机地址，本机卡号$/;"	m	struct:__anon10
+au8BdLocaAddr	.\BeiDouModule.h	/^  UINT8 au8BdLocaAddr[3];     \/\/北斗机用户机地址，本机卡号$/;"	m	struct:__anon11
+au8BdLocaAddr	.\BeiDouModule.h	/^  UINT8 au8BdLocaAddr[3];     \/\/北斗机用户机地址，本机卡号$/;"	m	struct:__anon3
+au8BdLocaAddr	.\BeiDouModule.h	/^  UINT8 au8BdLocaAddr[3];     \/\/北斗机用户机地址，本机卡号$/;"	m	struct:__anon4
+au8BdLocaAddr	.\BeiDouModule.h	/^  UINT8 au8BdLocaAddr[3];     \/\/北斗机用户机地址，本机卡号$/;"	m	struct:__anon5
+au8BdLocaAddr	.\BeiDouModule.h	/^  UINT8 au8BdLocaAddr[3];     \/\/北斗机用户机地址，本机卡号$/;"	m	struct:__anon6
+au8BdLocaAddr	.\BeiDouModule.h	/^  UINT8 au8BdLocaAddr[3];     \/\/北斗机用户机地址，本机卡号$/;"	m	struct:__anon8
+au8BdLocaAddr	.\BeiDouModule.h	/^  UINT8 au8BdLocaAddr[3];     \/\/北斗机用户机地址，本机卡号$/;"	m	struct:__anon9
+au8BdRevNbr	.\Record.h	/^  UINT8  au8BdRevNbr[3];          \/\/北斗接收机号码，指向客户中心。$/;"	m	struct:__anon22
+au8BdRxInfo	.\Communication.h	/^COM_EXT UINT8 au8BdRxInfo[33];$/;"	v
+au8BdSendAddr	.\BeiDouModule.h	/^  UINT8 au8BdSendAddr[3];      \/\/北斗机接收机地址。$/;"	m	struct:__anon4
+au8BdSendInfo	.\Communication.h	/^COM_EXT UINT8 au8BdSendInfo[33];$/;"	v
+au8CCLK	.\CdmaModule.c	/^const UINT8 au8CCLK[]              = {"AT+CCLK?\\r"};$/;"	v
+au8CMGD	.\CdmaModule.c	/^const UINT8 au8CMGD[] = {"AT+CMGD="};$/;"	v
+au8CMGF	.\CdmaModule.c	/^const UINT8 au8CMGF[]              = {"AT+CMGF=1\\r"};$/;"	v
+au8CMGL	.\CdmaModule.c	/^const UINT8 au8CMGL[]              = {"AT+CMGL="};$/;"	v
+au8CMGR	.\CdmaModule.c	/^const UINT8 au8CMGR[]              = {"AT+CMGR="};$/;"	v
+au8CMGS	.\CdmaModule.c	/^const UINT8 au8CMGS[8] = {"AT+CMGS="};$/;"	v
+au8CSQ	.\CdmaModule.c	/^const UINT8 au8CSQ[]               = {"AT+CSQ\\r"};$/;"	v
+au8CdmaBckNbr	.\Record.h	/^  UINT8  au8CdmaBckNbr[11];       \/\/cdma备用接收机号码。预留测试，指向青岛中心短信猫测试机。$/;"	m	struct:__anon22
+au8CdmaIndex	.\Communication.h	/^  UINT8  au8CdmaIndex[11] ;         \/\/本机编号，CDMA+BD\/CDMA使用手机卡号；$/;"	m	struct:__anon14
+au8CdmaRevNbr	.\Record.h	/^  UINT8  au8CdmaRevNbr[11];       \/\/CDMA接收机号码$/;"	m	struct:__anon22
+au8CmglIndex	.\CdmaModule.c	/^UINT8 au8CmglIndex[8];$/;"	v
+au8DataLen	.\BeiDouModule.h	/^  UINT8 au8DataLen[2];        \/\/数据包长度$/;"	m	struct:__anon10
+au8DataLen	.\BeiDouModule.h	/^  UINT8 au8DataLen[2];        \/\/数据包长度$/;"	m	struct:__anon11
+au8DataLen	.\BeiDouModule.h	/^  UINT8 au8DataLen[2];        \/\/数据包长度$/;"	m	struct:__anon3
+au8DataLen	.\BeiDouModule.h	/^  UINT8 au8DataLen[2];        \/\/数据包长度$/;"	m	struct:__anon4
+au8DataLen	.\BeiDouModule.h	/^  UINT8 au8DataLen[2];        \/\/数据包长度$/;"	m	struct:__anon5
+au8DataLen	.\BeiDouModule.h	/^  UINT8 au8DataLen[2];        \/\/数据包长度$/;"	m	struct:__anon6
+au8DataLen	.\BeiDouModule.h	/^  UINT8 au8DataLen[2];        \/\/数据包长度$/;"	m	struct:__anon8
+au8DataLen	.\BeiDouModule.h	/^  UINT8 au8DataLen[2];        \/\/数据包长度$/;"	m	struct:__anon9
+au8DisableZDSLEEP	.\CdmaModule.c	/^const UINT8 au8DisableZDSLEEP[]    = {"AT+ZDSLEEP=0\\r"};$/;"	v
+au8DisableZDSLEEPDTR	.\CdmaModule.c	/^const UINT8 au8DisableZDSLEEPDTR[] = {"AT+ZDSLEEPDTR=0\\r"};$/;"	v
+au8DisableZRST	.\CdmaModule.c	/^const UINT8 au8DisableZRST[]       = {"AT+ZRST=0\\r"};$/;"	v
+au8DownloadCmd	.\DebugCmd.c	/^const UINT8 au8DownloadCmd[6] = {0x80, 0x01, 0x00, 0x15, 0x64, 0xa3};$/;"	v
+au8EnableZDSLEEP	.\CdmaModule.c	/^const UINT8 au8EnableZDSLEEP[]     = {"AT+ZDSLEEP=1\\r"};$/;"	v
+au8EnableZDSLEEPDTR	.\CdmaModule.c	/^const UINT8 au8EnableZDSLEEPDTR[]  = {"AT+ZDSLEEPDTR=1\\r"};$/;"	v
+au8Freq	.\BeiDouModule.h	/^  UINT8 au8Freq[2];           \/\/输出频度$/;"	m	struct:__anon5
+au8GPS_X	.\Communication.h	/^  UINT8  au8GPS_X[11] ;             \/\/gps经度$/;"	m	struct:__anon14
+au8GPS_Y	.\Communication.h	/^  UINT8  au8GPS_Y[10] ;             \/\/gps纬度$/;"	m	struct:__anon14
+au8GetCdmaTime	.\CdmaModule.c	/^const UINT8 au8GetCdmaTime[]       = {"AT+ZDSLEEPDTR=2\\r"};$/;"	v
+au8GetModuleIndex	.\CdmaModule.c	/^const UINT8 au8GetModuleIndex[]    = {"AT+CGMM\\r"};$/;"	v
+au8HData	.\BeiDouModule.h	/^  UINT8 au8HData[2];$/;"	m	struct:__anon8
+au8HighData	.\BeiDouModule.h	/^  UINT8 au8HighData[4];       \/\/高程数据和天线高$/;"	m	struct:__anon3
+au8Icjc	.\BeiDouModule.c	/^UINT8 au8Icjc[12] = {0x24, 0x49, 0x43, 0x4a, 0x43, 0x00, 0x0c, 0x00, 0x00, 0x00, 0x00, 0x2b};$/;"	v
+au8Info	.\CdmaModule.c	/^  UINT8 * au8Info;    \/\/存放所发的信息指针$/;"	m	struct:_tsCMGS	file:
+au8LargeMem	.\OS_MEM.h	/^OS_EXT __no_init UINT8 au8LargeMem[4][BUF_LARGE_SIZE];$/;"	v
+au8LastDate	.\DebugCmd.c	/^const UINT8 au8LastDate[14] = __DATE__",  ";$/;"	v
+au8LastTime	.\DebugCmd.c	/^const UINT8 au8LastTime[10] = __TIME__"\\r\\n";$/;"	v
+au8Leap	.\GpsParse.C	/^const UINT8 au8Leap[13] = {0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};$/;"	v
+au8LocationAddr	.\BeiDouModule.c	/^UINT8 au8LocationAddr[3] = {0};$/;"	v
+au8MediumMem	.\OS_MEM.h	/^OS_EXT __no_init UINT8 au8MediumMem[6][BUF_MEDIUM_SIZE];$/;"	v
+au8MsgLen	.\BeiDouModule.h	/^  UINT8 au8MsgLen[2];         \/\/报文长度$/;"	m	struct:__anon4
+au8MsgLen	.\BeiDouModule.h	/^  UINT8 au8MsgLen[2];         \/\/电文长度$/;"	m	struct:__anon9
+au8MsgType	.\CdmaModule.c	/^const UINT8 au8MsgType[]            = {"AT+CSMS?\\r"};$/;"	v
+au8MsgUnRead	.\CdmaModule.c	/^UINT8 au8MsgUnRead[MSG_MAX_SIZE];$/;"	v
+au8Pressure	.\BeiDouModule.h	/^  UINT8 au8Pressure[4];       \/\/气压数据$/;"	m	struct:__anon3
+au8SendAddr	.\BeiDouModule.h	/^  UINT8 au8SendAddr[3];       \/\/发送方地址$/;"	m	struct:__anon9
+au8SmallMem	.\OS_MEM.h	/^OS_EXT __no_init UINT8 au8SmallMem[12][BUF_SMALL_SIZE];$/;"	v
+au8TimeData	.\BeiDouModule.h	/^  UINT8 au8TimeData[4];$/;"	m	struct:__anon8
+au8UartSet	.\CdmaModule.c	/^const UINT8 au8UartSet[]           = {"AT+UART=9600,ON,8,N,1\\r"};$/;"	v
+au8UartSet	.\DtuModule.c	/^const UINT8 au8UartSet[] = {"AT+UART=9600,ON,8,N,1\\r"};$/;"	v
+au8Year	.\BeiDouModule.h	/^  UINT8 au8Year[2];           \/\/年$/;"	m	struct:__anon10
+au8Year	.\GpsParse.C	/^const UINT8 au8Year[13] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};$/;"	v
+au8ZIND	.\CdmaModule.c	/^const UINT8 au8ZIND[] = {"AT+ZIND="};$/;"	v
+au8ZMSCL_UNICODE	.\CdmaModule.c	/^const UINT8 au8ZMSCL_UNICODE[]      = {"AT+ZMSGL=6,4\\r"};$/;"	v
+au8ZMSGL_ASCII	.\CdmaModule.c	/^const UINT8 au8ZMSGL_ASCII[]        = {"AT+ZMSGL=1,2\\r"};$/;"	v
+au8u8Freq	.\BeiDouModule.h	/^  UINT8 au8u8Freq[2];         \/\/入站频度$/;"	m	struct:__anon3
+au8uHData	.\BeiDouModule.h	/^  UINT8 au8uHData[2];$/;"	m	struct:__anon8
+bActive	.\GpsParse.C	/^  BOOL bActive;$/;"	m	struct:__anon17	file:
+bAvailabled	.\SoftTimer.c	/^  BOOL bAvailabled;$/;"	m	struct:_tsSwd	file:
+bCmglFlag	.\CdmaModule.c	/^BOOL bCmglFlag = FALSE;$/;"	v
+bComplete	.\BatteryDetect.c	/^BOOL bComplete = FALSE;$/;"	v
+bEnable	.\SoftTimer.c	/^  BOOL bEnable;$/;"	m	struct:_tsSwd	file:
+bKeyCompleted	.\SystemCtl.c	/^  BOOL  bKeyCompleted = FALSE;$/;"	v
+bKeyFlag	.\SystemCtl.c	/^  BOOL  bKeyFlag = FALSE;$/;"	v
+bKeyWakeUp	.\SystemCtl.c	/^  BOOL  bKeyWakeUp;$/;"	v
+bLedFlag	.\SystemCtl.c	/^BOOL bLedFlag=FALSE;$/;"	v
+bMsgReady	.\CdmaModule.c	/^BOOL  bMsgReady = FALSE;$/;"	v
+bRtcFlag	.\GpsParse.C	/^BOOL bRtcFlag=FALSE;$/;"	v
+bool	.\DataType.h	46;"	d
+delay5us	.\I2c_Driver.c	/^void delay5us( void )$/;"	f
+eAssembleState	.\BeiDouModule.c	/^  teDebugCmdAssembleState eAssembleState;  \/\/组包状态$/;"	m	struct:__anon2	file:
+eAssembleState	.\CdmaModule.c	/^  teCdmaAssembleState eAssembleState;  \/\/组包状态$/;"	m	struct:__anon13	file:
+eAssembleState	.\DebugCmd.c	/^  teDebugCmdAssembleState eAssembleState;  \/\/组包状态$/;"	m	struct:__anon16	file:
+eAssembleState	.\GpsParse.C	/^  teUartCmdAssembleState eAssembleState;  \/\/组包状态$/;"	m	struct:__anon19	file:
+eNmeaType	.\GpsParse.C	/^enum eNmeaType$/;"	g	file:
+err	.\OS_MEM.h	/^OS_EXT UINT8 err;$/;"	v
+false	.\DataType.h	75;"	d
+g_bBdSend	.\SystemCtl.h	/^SYS_EXT BOOL g_bBdSend;$/;"	v
+g_bCdmaRiEvent	.\SystemCtl.h	/^SYS_EXT BOOL g_bCdmaRiEvent;$/;"	v
+g_bCdmaSend	.\SystemCtl.h	/^SYS_EXT BOOL g_bCdmaSend;$/;"	v
+g_bCommuWake	.\SystemCtl.h	/^SYS_EXT BOOL g_bCommuWake;$/;"	v
+g_bDebug	.\SystemCtl.h	/^SYS_EXT UINT8 g_bDebug;$/;"	v
+g_bGpsCompleted	.\GpsParse.h	/^GPS_EXT BOOL g_bGpsCompleted;$/;"	v
+g_bGpsFirstRx	.\GpsParse.h	/^GPS_EXT BOOL  g_bGpsFirstRx;$/;"	v
+g_bSendInfo	.\SystemCtl.h	/^SYS_EXT BOOL g_bSendInfo;$/;"	v
+g_bStandby	.\SystemCtl.h	/^SYS_EXT BOOL g_bStandby;$/;"	v
+g_s8GpsFirstDog	.\GpsParse.h	/^GPS_EXT SINT8 g_s8GpsFirstDog;$/;"	v
+g_u16TimerDelay	.\global.h	/^MAIN_EXT volatile UINT16  g_u16TimerDelay;$/;"	v
+g_u32TimeStamp	.\global.h	/^MAIN_EXT volatile UINT32  g_u32TimeStamp;$/;"	v
+g_u8NeedSaved	.\global.h	/^MAIN_EXT          BOOL    g_u8NeedSaved;$/;"	v
+g_u8TimerDelay	.\global.h	/^MAIN_EXT volatile UINT8   g_u8TimerDelay;$/;"	v
+main	.\main.c	/^void main(void)$/;"	f
+pCMGS	.\CdmaModule.c	/^}tsCMGS, *pCMGS;$/;"	t	typeref:struct:_tsCMGS	file:
+pCmd	.\CdmaModule.c	/^  UINT8 *pCmd; \/\/存放AT命令 AT+CMGS=$/;"	m	struct:_tsCMGS	file:
+pGpsCmd	.\GpsParse.C	/^const UINT8 *pGpsCmd[] = {"$GNGGA", "$GNGLL","$GNRMC", "$GNVTG"};$/;"	v
+pLargeMem	.\OS_MEM.h	/^OS_EXT OS_MEM *pLargeMem;$/;"	v
+pMediumMem	.\OS_MEM.h	/^OS_EXT OS_MEM *pMediumMem;$/;"	v
+pMemErr	.\OS_MEM.h	/^OS_EXT UINT8 *pMemErr;$/;"	v
+pMsg	.\BeiDouModule.h	/^  UINT8 *pMsg;                \/\/报文信息指针$/;"	m	struct:__anon4
+pMsg	.\BeiDouModule.h	/^  UINT8 *pMsg;                \/\/电文内容地址$/;"	m	struct:__anon9
+pPhoneNum	.\CdmaModule.c	/^  UINT8 *pPhoneNum;  \/\/存放电话号码，加前后的“”$/;"	m	struct:_tsCMGS	file:
+pSmallMem	.\OS_MEM.h	/^OS_EXT OS_MEM *pSmallMem;$/;"	v
+pu8AssembleBuf	.\BeiDouModule.c	/^  UINT8 *pu8AssembleBuf;  \/\/组包区数据指针$/;"	m	struct:__anon2	file:
+pu8AssembleBuf	.\CdmaModule.c	/^  UINT8 *pu8AssembleBuf;  \/\/组包区数据指针$/;"	m	struct:__anon13	file:
+pu8AssembleBuf	.\DebugCmd.c	/^  UINT8 *pu8AssembleBuf;  \/\/组包区数据指针$/;"	m	struct:__anon16	file:
+pu8AssembleBuf	.\GpsParse.C	/^  UINT8 *pu8AssembleBuf;  \/\/组包区数据指针$/;"	m	struct:__anon19	file:
+pu8CmdIndex	.\GpsParse.C	/^  UINT8 *pu8CmdIndex;     \/\/命令索引指针$/;"	m	struct:__anon19	file:
+pu8RxBuf	.\Uart0.c	/^  UINT8 *pu8RxBuf;$/;"	m	struct:__anon24	file:
+pu8RxBuf	.\Uart1.c	/^  UINT8 *pu8RxBuf;$/;"	m	struct:__anon25	file:
+pu8RxBuf	.\Uart2.c	/^  UINT8 *pu8RxBuf;$/;"	m	struct:__anon26	file:
+pu8RxBuf	.\Uart3.c	/^  UINT8 *pu8RxBuf;$/;"	m	struct:__anon27	file:
+s8BatDog	.\BatteryDetect.c	/^SINT8 s8BatDog=0;$/;"	v
+s8CurrentIndex	.\CdmaModule.c	/^SINT8 s8CurrentIndex = -1;$/;"	v
+s8KeyDog	.\SystemCtl.c	/^  SINT8 s8KeyDog;$/;"	v
+s8KeySetDog	.\SystemCtl.c	/^  SINT8 s8KeySetDog;$/;"	v
+s8LedDog	.\SystemCtl.c	/^SINT8 s8LedDog;$/;"	v
+s8TestDog	.\Communication.c	/^SINT8 s8TestDog=0;$/;"	v
+sBdCmdCb	.\BeiDouModule.c	/^_tsBdCmdCb sBdCmdCb;$/;"	v
+sBdDog	.\BeiDouModule.c	/^  SINT8 sBdDog;$/;"	m	struct:__anon2	file:
+sCdmaCmdCb	.\CdmaModule.c	/^_tsCdmaCmdCb sCdmaCmdCb;$/;"	v
+sCdmaDog	.\CdmaModule.c	/^  SINT8 sCdmaDog;         \/\/cdma接收命令超时定时器$/;"	m	struct:__anon13	file:
+sCmdDwsqCb	.\BeiDouModule.h	/^BD_EXT _tsCmdDwsqCb sCmdDwsqCb;$/;"	v
+sCmdDwxxCb	.\BeiDouModule.h	/^BD_EXT _tsCmdDwxxCb sCmdDwxxCb;$/;"	v
+sCmdFkxxCb	.\BeiDouModule.h	/^BD_EXT _tsCmdFkxxCb sCmdFkxxCb;$/;"	v
+sCmdGljcCb	.\BeiDouModule.h	/^BD_EXT _tsCmdGljcCb sCmdGljcCb;$/;"	v
+sCmdSjscCb	.\BeiDouModule.h	/^BD_EXT _tsCmdSjscCb sCmdSjscCb;$/;"	v
+sCmdSjxxCb	.\BeiDouModule.h	/^BD_EXT _tsCmdSjxxCb sCmdSjxxCb;$/;"	v
+sCmdTxsqCb	.\BeiDouModule.h	/^BD_EXT _tsCmdTxsqCb sCmdTxsqCb;$/;"	v
+sCmdTxxxCb	.\BeiDouModule.h	/^BD_EXT _tsCmdTxxxCb sCmdTxxxCb;$/;"	v
+sCsqDog	.\CdmaModule.c	/^  SINT8 sCsqDog;          \/\/CSQ信号强度获取时间定时器$/;"	m	struct:__anon13	file:
+sCurTime	.\Rtc.h	/^RTC_EXT _tsTimeCb sCurTime;$/;"	v
+sDebugCmdCb	.\DebugCmd.c	/^_tsDebugCmdCb sDebugCmdCb;$/;"	v
+sDebugDog	.\DebugCmd.c	/^  SINT8 sDebugDog;$/;"	m	struct:__anon16	file:
+sDog	.\Communication.h	/^  SINT8 sDog          ;             \/\/通讯模块开启定时器$/;"	m	struct:__anon14
+sDogs	.\SoftTimer.c	/^_tsDogs sDogs[SWD_MAX_SIZE];$/;"	v
+sGpsCmdCb	.\GpsParse.C	/^_tsUartCmdCb sGpsCmdCb;$/;"	v
+sGpsDog	.\GpsParse.C	/^  SINT8 sGpsDog;$/;"	m	struct:__anon19	file:
+sGpsInfoBuf	.\GpsParse.C	/^GPS_EXT _tsGpsInfo sGpsInfoBuf[GPS_MAX_SIZE];$/;"	v
+sRecordCb	.\Record.h	/^RECORD_EXT _tsRecordCb sRecordCb;$/;"	v
+sSendInfo	.\Communication.h	/^COM_EXT _tsSendInfo sSendInfo;$/;"	v
+sSendTime	.\Communication.h	/^  UINT8  sSendTime[8] ;             \/\/当前时间$/;"	m	struct:__anon14
+sTime	.\SystemCtl.c	/^_tsTimeCb sTime;$/;"	v
+sUart0Cb	.\Uart0.c	/^_tsUartCb sUart0Cb;$/;"	v
+sUart1Cb	.\Uart1.c	/^_tsUartCb sUart1Cb;$/;"	v
+sUart2Cb	.\Uart2.c	/^_tsUartCb sUart2Cb;$/;"	v
+sUart3Cb	.\Uart3.c	/^_tsUartCb sUart3Cb;$/;"	v
+sUartCmd	.\Uart3Cmd.c	/^}_tsUartCmdCb sUartCmd;$/;"	t	typeref:struct:__anon28	file:
+teCdmaAssembleState	.\CdmaModule.c	/^}teCdmaAssembleState;$/;"	t	typeref:enum:__anon12	file:
+teDebugCmdAssembleState	.\BeiDouModule.c	/^}teDebugCmdAssembleState;$/;"	t	typeref:enum:__anon1	file:
+teDebugCmdAssembleState	.\DebugCmd.c	/^}teDebugCmdAssembleState;$/;"	t	typeref:enum:__anon15	file:
+teUartCmdAssembleState	.\GpsParse.C	/^}teUartCmdAssembleState;$/;"	t	typeref:enum:__anon18	file:
+true	.\DataType.h	71;"	d
+tsCMGS	.\CdmaModule.c	/^}tsCMGS, *pCMGS;$/;"	t	typeref:struct:_tsCMGS	file:
+u16AdcResules	.\BatteryDetect.c	/^UINT16 u16AdcResules = 0;$/;"	v
+u16BdRxNum	.\Communication.h	/^COM_EXT UINT16 u16BdRxNum;          \/\/北斗接收报文次数$/;"	v
+u16BdSendNum	.\Communication.h	/^COM_EXT UINT16 u16BdSendNum;        \/\/北斗发送报文次数$/;"	v
+u16BdSendSucceed	.\Communication.h	/^COM_EXT UINT16 u16BdSendSucceed;    \/\/发送成功次数$/;"	v
+u16BufDataLen	.\BeiDouModule.c	/^  UINT16 u16BufDataLen;     \/\/已经组包的数据长度$/;"	m	struct:__anon2	file:
+u16BufDataLen	.\CdmaModule.c	/^  UINT16 u16BufDataLen ;  \/\/组包的数据长度$/;"	m	struct:__anon13	file:
+u16BufDataLen	.\GpsParse.C	/^  UINT16 u16BufDataLen ;  \/\/组包的数据长度$/;"	m	struct:__anon19	file:
+u16CmpNbr	.\Record.h	/^  UINT16 u16CmpNbr;               \/\/厂家编号, 0 ~ 65535.$/;"	m	struct:__anon22
+u16LifeOldTime	.\SoftTimer.c	/^  UINT16 u16LifeOldTime;$/;"	m	struct:_tsSwd	file:
+u16LifeTime	.\SoftTimer.c	/^  UINT16 u16LifeTime;$/;"	m	struct:_tsSwd	file:
+u16RevDataLen	.\BeiDouModule.c	/^  UINT16 u16RevDataLen ;   \/\/每包数据的长度$/;"	m	struct:__anon2	file:
+u16RxDataLen	.\Uart0.c	/^  UINT16 u16RxDataLen;$/;"	m	struct:__anon24	file:
+u16RxDataLen	.\Uart1.c	/^  UINT16 u16RxDataLen;$/;"	m	struct:__anon25	file:
+u16RxDataLen	.\Uart2.c	/^  UINT16 u16RxDataLen;$/;"	m	struct:__anon26	file:
+u16RxDataLen	.\Uart3.c	/^  UINT16 u16RxDataLen;$/;"	m	struct:__anon27	file:
+u16RxHeader	.\Uart0.c	/^  UINT16 u16RxHeader;$/;"	m	struct:__anon24	file:
+u16RxHeader	.\Uart1.c	/^  UINT16 u16RxHeader;$/;"	m	struct:__anon25	file:
+u16RxHeader	.\Uart2.c	/^  UINT16 u16RxHeader;$/;"	m	struct:__anon26	file:
+u16RxHeader	.\Uart3.c	/^  UINT16 u16RxHeader;$/;"	m	struct:__anon27	file:
+u16RxTail	.\Uart0.c	/^  UINT16 u16RxTail;$/;"	m	struct:__anon24	file:
+u16RxTail	.\Uart1.c	/^  UINT16 u16RxTail;$/;"	m	struct:__anon25	file:
+u16RxTail	.\Uart2.c	/^  UINT16 u16RxTail;$/;"	m	struct:__anon26	file:
+u16RxTail	.\Uart3.c	/^  UINT16 u16RxTail;$/;"	m	struct:__anon27	file:
+u16SysNbr	.\Record.h	/^  UINT16 u16SysNbr;               \/\/设备编号, 0 ~ 65535.$/;"	m	struct:__anon22
+u32SysRunTime	.\Record.h	/^  UINT32  u32SysRunTime;          \/\/程序运行时间$/;"	m	struct:__anon22
+u8Ack	.\BeiDouModule.h	/^  UINT8 u8Ack;                \/\/是否应答$/;"	m	struct:__anon4
+u8BackInfo	.\BeiDouModule.h	/^  UINT8 u8BackInfo;           \/\/反馈标志$/;"	m	struct:__anon11
+u8Battery	.\Communication.h	/^  UINT8  u8Battery    ;             \/\/电池电量，发送时需转换为ASCII格式$/;"	m	struct:__anon14
+u8BdCentage	.\Communication.h	/^COM_EXT UINT8 u8BdCentage;          \/\/成功率$/;"	v
+u8BufDataLen	.\DebugCmd.c	/^  UINT8 u8BufDataLen ;  \/\/组包的数据长度$/;"	m	struct:__anon16	file:
+u8Check	.\BeiDouModule.h	/^  UINT8 u8Check;              \/\/校验和$/;"	m	struct:__anon10
+u8Check	.\BeiDouModule.h	/^  UINT8 u8Check;              \/\/校验和$/;"	m	struct:__anon11
+u8Check	.\BeiDouModule.h	/^  UINT8 u8Check;              \/\/校验和$/;"	m	struct:__anon3
+u8Check	.\BeiDouModule.h	/^  UINT8 u8Check;              \/\/校验和$/;"	m	struct:__anon4
+u8Check	.\BeiDouModule.h	/^  UINT8 u8Check;              \/\/校验和$/;"	m	struct:__anon5
+u8Check	.\BeiDouModule.h	/^  UINT8 u8Check;              \/\/校验和$/;"	m	struct:__anon8
+u8Check	.\BeiDouModule.h	/^  UINT8 u8Check;              \/\/校验和$/;"	m	struct:__anon9
+u8ClassLed	.\global.h	/^MAIN_EXT          UINT8   u8ClassLed;$/;"	v
+u8Cmd	.\CdmaModule.c	/^  UINT8 u8Cmd;            \/\/cdma接收命令$/;"	m	struct:__anon13	file:
+u8Cmd	.\Uart3Cmd.c	/^  UINT8 u8Cmd;$/;"	m	struct:__anon28	file:
+u8CmdLen	.\BeiDouModule.c	/^  UINT8 u8CmdLen;         \/\/命令长度$/;"	m	struct:__anon2	file:
+u8ConfigMode	.\CdmaModule.c	/^const UINT8 u8ConfigMode[]         = {"enter_config_mode\\0"};$/;"	v
+u8ConfigMode	.\DtuModule.c	/^const UINT8 u8ConfigMode[] = {"enter_config_mode\\0"};$/;"	v
+u8ConfigRxData	.\CdmaModule.c	/^const UINT8 u8ConfigRxData[]       = {"aaaaaaaaaaaaaaaa\\0"};$/;"	v
+u8ConfigRxData	.\DtuModule.c	/^const UINT8 u8ConfigRxData[] = {"aaaaaaaaaaaaaaaa\\0"};$/;"	v
+u8ConfigStart	.\CdmaModule.c	/^const UINT8 u8ConfigStart[]        = {0xff,0xff,0xff,0xff};$/;"	v
+u8ConfigStart	.\DtuModule.c	/^const UINT8 u8ConfigStart[] = {0xff,0xff,0xff,0xff};$/;"	v
+u8Crc	.\BeiDouModule.h	/^  UINT8 u8Crc;                \/\/CRC标志$/;"	m	struct:__anon9
+u8Date	.\BeiDouModule.h	/^  UINT8 u8Date;               \/\/日$/;"	m	struct:__anon10
+u8Freq	.\BeiDouModule.h	/^  UINT8 u8Freq;               \/\/输出频度$/;"	m	struct:__anon6
+u8GapTime	.\Communication.h	/^  UINT8 u8GapTime     ;$/;"	m	struct:__anon14
+u8GapTime	.\Record.h	/^  UINT8  u8GapTime;               \/\/信息发送时间间隔，最高间隔时间255\/60= 4.25H$/;"	m	struct:__anon22
+u8GpsRxNum	.\GpsParse.C	/^  UINT8 u8GpsRxNum;       \/\/已经接收了有效GPS信息的包数$/;"	m	struct:__anon19	file:
+u8GpsXSmb	.\Communication.h	/^  UINT8  u8GpsXSmb    ;             \/\/gps经度识别符 E\/W$/;"	m	struct:__anon14
+u8GpsYSmb	.\Communication.h	/^  UINT8  u8GpsYSmb    ;             \/\/gps纬度识别符 N\/S$/;"	m	struct:__anon14
+u8Head_1	.\Uart3Cmd.c	/^  UINT8 u8Head_1;$/;"	m	struct:__anon28	file:
+u8Head_2	.\Uart3Cmd.c	/^  UINT8 u8Head_2;$/;"	m	struct:__anon28	file:
+u8Hour	.\BeiDouModule.h	/^  UINT8 u8Hour;               \/\/时$/;"	m	struct:__anon10
+u8InfoType	.\BeiDouModule.h	/^  UINT8 u8InfoType;           \/\/信息类别$/;"	m	struct:__anon3
+u8InfoType	.\BeiDouModule.h	/^  UINT8 u8InfoType;           \/\/信息类别$/;"	m	struct:__anon4
+u8InfoType	.\BeiDouModule.h	/^  UINT8 u8InfoType;           \/\/信息类别$/;"	m	struct:__anon8
+u8InfoType	.\BeiDouModule.h	/^  UINT8 u8InfoType;           \/\/信息类别$/;"	m	struct:__anon9
+u8KeySet	.\SystemCtl.c	/^  UINT8 u8KeySet = 1;$/;"	v
+u8Len	.\BeiDouModule.c	/^	UINT8 u8Len;						\/\/接收数据长度为2byte，记录正在接收的高地位$/;"	m	struct:__anon2	file:
+u8Minute	.\Communication.h	/^  UINT8 u8Minute      ;             \/\/进入待机前分钟数，中断的唤醒以它为基础。$/;"	m	struct:__anon14
+u8Minuth	.\BeiDouModule.h	/^  UINT8 u8Minuth;             \/\/分$/;"	m	struct:__anon10
+u8Month	.\BeiDouModule.h	/^  UINT8 u8Month;              \/\/月$/;"	m	struct:__anon10
+u8MsgEnvent	.\CdmaModule.c	/^  UINT8 u8MsgEnvent;      \/\/收到短信后，模块会向主机发送一系列指令，$/;"	m	struct:__anon13	file:
+u8MsgSource	.\Communication.h	/^  UINT8  u8MsgSource  ;             \/\/信息来源$/;"	m	struct:__anon14
+u8Num	.\GpsParse.C	/^UINT8 u8Num=0;$/;"	v
+u8OtherInfo	.\BeiDouModule.h	/^  UINT8 u8OtherInfo[4];       \/\/其他信息, 发送的命令符$/;"	m	struct:__anon11
+u8Second	.\BeiDouModule.h	/^  UINT8 u8Second;             \/\/秒$/;"	m	struct:__anon10
+u8SendHour	.\BeiDouModule.h	/^  UINT8 u8SendHour;           \/\/发送时间，小时$/;"	m	struct:__anon9
+u8SendMinute	.\BeiDouModule.h	/^  UINT8 u8SendMinute;         \/\/发送时间，分钟。$/;"	m	struct:__anon9
+u8SysType	.\Communication.h	/^  UINT8  u8SysType    ;             \/\/设备类型$/;"	m	struct:__anon14
+u8SysType	.\Record.h	/^  UINT8  u8SysType;               \/\/设备类型, 0~255个类型；目前使用1 -- 收油机，2 -- 围油栏$/;"	m	struct:__anon22
+u8Tail_1	.\Uart3Cmd.c	/^  UINT8 u8Tail_1;$/;"	m	struct:__anon28	file:
+u8Tail_2	.\Uart3Cmd.c	/^  UINT8 u8Tail_2;$/;"	m	struct:__anon28	file:
+uint16	.\DataType.h	22;"	d
+uint32	.\DataType.h	26;"	d
+uint8	.\DataType.h	18;"	d

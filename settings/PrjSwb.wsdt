@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>SwbPjc/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>287</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>496</ColumnWidth0><ColumnWidth1>70</ColumnWidth1><ColumnWidth2>850</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25688-7344</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SwbPjc</ExpandedNode><ExpandedNode>SwbPjc/CDMA_Module</ExpandedNode><ExpandedNode>SwbPjc/Debug</ExpandedNode><ExpandedNode>SwbPjc/GPS_Module</ExpandedNode><ExpandedNode>SwbPjc/TIMER</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12912-7788</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-21869-21581</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\Uart2.c</Filename><XPos>0</XPos><YPos>46</YPos><SelStart>1203</SelStart><SelEnd>1203</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\Rtc.c</Filename><XPos>0</XPos><YPos>141</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\DebugCmd.h</Filename><XPos>0</XPos><YPos>70</YPos><SelStart>3823</SelStart><SelEnd>3834</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\Timer.c</Filename><XPos>0</XPos><YPos>56</YPos><SelStart>2205</SelStart><SelEnd>2205</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\CdmaModule.c</Filename><XPos>0</XPos><YPos>1838</YPos><SelStart>40360</SelStart><SelEnd>40360</SelEnd></Tab><ActiveTab>4</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\Uart1.c</Filename><XPos>0</XPos><YPos>258</YPos><SelStart>6637</SelStart><SelEnd>6637</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0 Evaluation\430\inc\msp430x54x.h</Filename><XPos>0</XPos><YPos>3350</YPos><SelStart>214645</SelStart><SelEnd>214645</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\Record.c</Filename><XPos>0</XPos><YPos>59</YPos><SelStart>1994</SelStart><SelEnd>1994</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\BeiDouModule.c</Filename><XPos>0</XPos><YPos>655</YPos><SelStart>13154</SelStart><SelEnd>13154</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\Communication.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1030</SelStart><SelEnd>1030</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\main.c</Filename><XPos>0</XPos><YPos>117</YPos><SelStart>2817</SelStart><SelEnd>2826</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\DebugCmd.c</Filename><XPos>0</XPos><YPos>1878</YPos><SelStart>51240</SelStart><SelEnd>51254</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\SoftTimer.c</Filename><XPos>0</XPos><YPos>279</YPos><SelStart>441</SelStart><SelEnd>441</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\Uart0.c</Filename><XPos>0</XPos><YPos>166</YPos><SelStart>4252</SelStart><SelEnd>4252</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\global.h</Filename><XPos>0</XPos><YPos>136</YPos><SelStart>5615</SelStart><SelEnd>5625</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\SystemCtl.c</Filename><XPos>0</XPos><YPos>441</YPos><SelStart>10452</SelStart><SelEnd>10452</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\GpsParse.h</Filename><XPos>0</XPos><YPos>8</YPos><SelStart>266</SelStart><SelEnd>266</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\Communication.c</Filename><XPos>0</XPos><YPos>95</YPos><SelStart>3031</SelStart><SelEnd>3046</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\GpsParse.C</Filename><XPos>0</XPos><YPos>613</YPos><SelStart>16477</SelStart><SelEnd>16477</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0260c5e0><key>iaridepm.enu1</key></Toolbar-0260c5e0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>631</Bottom><Right>361</Right><x>-2</x><y>-2</y><xscreen>1015</xscreen><yscreen>612</yscreen><sizeHorzCX>704861</sizeHorzCX><sizeHorzCY>748166</sizeHorzCY><sizeVertCX>252083</sizeVertCX><sizeVertCY>773839</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>142</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>144</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>176039</sizeHorzCY><sizeVertCX>704861</sizeVertCX><sizeVertCY>748166</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
